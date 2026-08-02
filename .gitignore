@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Variables secrètes
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Système
+.DS_Store
+Thumbs.db
+
+# VS Code optionnel
+.vscode/
+
+# Logs
+*.log

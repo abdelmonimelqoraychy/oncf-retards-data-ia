@@ -1,0 +1,50 @@
+===== RAPPORT MACHINE LEARNING =====
+
+1. Objectif du modèle
+L'objectif est de prédire si un train sera en retard ou à l'heure à partir des caractéristiques disponibles avant ou au moment du départ.
+
+2. Variable cible
+Variable cible : train_en_retard
+0 = train à l'heure
+1 = train en retard
+
+3. Variables explicatives utilisées
+- type_train
+- ligne
+- gare_depart
+- gare_arrivee
+- jour_semaine
+- heure_depart
+- retard_depart_minutes
+
+Nombre total de lignes utilisées : 1000
+
+4. Comparaison des modèles
+             modele  accuracy  precision  recall  f1_score
+      Random Forest    0.7633     0.8370  0.8482    0.8426
+      Decision Tree    0.7733     0.9333  0.7500    0.8317
+Logistic Regression    0.7400     0.9620  0.6786    0.7958
+
+5. Meilleur modèle sélectionné
+Modèle sélectionné : Random Forest
+Accuracy : 0.7633
+Precision : 0.837
+Recall : 0.8482
+F1-score : 0.8426
+
+6. Rapport de classification
+              precision    recall  f1-score   support
+
+           0       0.53      0.51      0.52        76
+           1       0.84      0.85      0.84       224
+
+    accuracy                           0.76       300
+   macro avg       0.69      0.68      0.68       300
+weighted avg       0.76      0.76      0.76       300
+
+7. Matrice de confusion
+[[ 39  37]
+ [ 34 190]]
+
+8. Remarque méthodologique
+Les résultats dépendent fortement de la qualité, du volume et de la représentativité des données utilisées. Lorsque les données sont simulées, l'objectif principal est de valider la chaîne complète de modélisation et non de produire une performance opérationnelle définitive.

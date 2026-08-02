@@ -1,0 +1,1001 @@
+﻿date_trajet,train_id,type_train,ligne,gare_depart,gare_arrivee,heure_depart_prevue,heure_depart_reelle,heure_arrivee_prevue,heure_arrivee_reelle,cause_retard
+2026-06-13,T0001,Al Atlas,Fes-Rabat,Fes,Rabat,11:00,11:05,13:02,13:05,Aucune
+2026-06-23,T0002,Train Navette Rapide,Rabat-Casa,Rabat,Casa,07:00,07:00,10:31,10:31,Aucune
+2026-02-25,T0003,Al Atlas,Rabat-Casa,Rabat,Casa,06:00,06:05,09:23,09:45,Aucune
+2026-05-20,T0004,Al Boraq,Fes-Casa,Fes,Casa,17:00,17:00,20:30,20:49,Aucune
+2026-02-10,T0005,Train Navette Rapide,Tanger-Casa,Tanger,Casa,13:00,13:00,15:11,15:11,Aucune
+2026-01-24,T0006,Al Boraq,Rabat-Fes,Rabat,Fes,14:00,14:30,16:28,16:54,Trafic
+2026-04-28,T0007,Train Navette Rapide,Rabat-Fes,Rabat,Fes,15:00,15:31,16:20,17:06,Trafic
+2026-06-08,T0008,Al Boraq,Casa-Rabat,Casa,Rabat,09:00,09:05,13:00,13:07,Aucune
+2026-03-16,T0009,Al Atlas,Fes-Casa,Fes,Casa,07:30,07:35,10:07,10:18,Aucune
+2026-02-11,T0010,Al Boraq,Marrakech-Casa,Marrakech,Casa,09:00,09:05,12:51,13:11,Aucune
+2026-01-19,T0011,Train Navette Rapide,Casa-Fes,Casa,Fes,20:00,20:02,00:06,00:15,Aucune
+2026-03-11,T0012,Train Navette Rapide,Rabat-Casa,Rabat,Casa,10:00,10:00,13:55,13:57,Aucune
+2026-01-09,T0013,Al Boraq,Tanger-Casa,Tanger,Casa,11:00,11:03,12:16,12:36,Aucune
+2026-03-22,T0014,Al Atlas,Casa-Tanger,Casa,Tanger,15:00,15:13,18:44,18:56,Trafic
+2026-03-05,T0015,Train Navette Rapide,Rabat-Casa,Rabat,Casa,20:00,21:09,22:07,23:29,Technique
+2026-04-13,T0016,Al Boraq,Fes-Casa,Fes,Casa,08:00,08:29,11:10,11:35,Trafic
+2026-01-29,T0017,Al Atlas,Casa-Fes,Casa,Fes,16:00,16:02,19:32,19:48,Aucune
+2026-04-30,T0018,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,20:00,20:29,21:02,21:47,Technique
+2026-05-18,T0019,Al Boraq,Marrakech-Casa,Marrakech,Casa,07:30,07:32,09:45,09:45,Aucune
+2026-03-09,T0020,Train Navette Rapide,Casa-Fes,Casa,Fes,19:00,19:29,20:27,21:11,Exploitation
+2026-05-10,T0021,Train Navette Rapide,Fes-Casa,Fes,Casa,08:00,09:24,10:35,12:18,Technique
+2026-05-16,T0022,Al Atlas,Casa-Rabat,Casa,Rabat,13:00,13:00,16:05,16:25,Aucune
+2026-03-20,T0023,Al Atlas,Fes-Rabat,Fes,Rabat,10:00,10:20,13:25,14:03,Météo
+2026-05-05,T0024,Al Atlas,Rabat-Casa,Rabat,Casa,08:00,09:25,09:32,10:57,Technique
+2026-03-09,T0025,Train Navette Rapide,Casa-Rabat,Casa,Rabat,16:00,16:35,17:54,18:46,Météo
+2026-03-21,T0026,Al Boraq,Marrakech-Casa,Marrakech,Casa,17:00,17:12,20:12,20:26,Trafic
+2026-01-17,T0027,Al Boraq,Fes-Rabat,Fes,Rabat,20:00,20:05,21:58,22:00,Trafic
+2026-06-11,T0028,Al Atlas,Fes-Casa,Fes,Casa,07:00,07:14,08:08,08:33,Exploitation
+2026-03-02,T0029,Al Boraq,Casa-Tanger,Casa,Tanger,09:00,09:03,12:18,12:34,Aucune
+2026-05-02,T0030,Al Atlas,Casa-Tanger,Casa,Tanger,16:00,16:05,17:48,18:01,Aucune
+2026-04-01,T0031,Al Boraq,Tanger-Casa,Tanger,Casa,17:00,17:05,21:06,21:26,Aucune
+2026-01-26,T0032,Al Atlas,Tanger-Casa,Tanger,Casa,13:00,13:00,14:27,14:39,Aucune
+2026-04-25,T0033,Al Atlas,Tanger-Casa,Tanger,Casa,08:30,09:02,10:41,11:10,Trafic
+2026-04-24,T0034,Train Navette Rapide,Rabat-Fes,Rabat,Fes,06:30,06:51,10:16,10:34,Incident voyageur
+2026-03-02,T0035,Al Atlas,Tanger-Casa,Tanger,Casa,18:00,18:02,21:03,21:03,Aucune
+2026-02-12,T0036,Al Boraq,Fes-Rabat,Fes,Rabat,15:00,16:08,17:07,18:19,Météo
+2026-04-19,T0037,Train Navette Rapide,Rabat-Casa,Rabat,Casa,18:00,18:00,19:39,19:39,Aucune
+2026-05-29,T0038,Train Navette Rapide,Rabat-Casa,Rabat,Casa,06:30,06:30,10:41,10:54,Aucune
+2026-05-03,T0039,Train Navette Rapide,Rabat-Casa,Rabat,Casa,08:30,09:00,09:44,10:14,Incident voyageur
+2026-01-18,T0040,Train Navette Rapide,Rabat-Fes,Rabat,Fes,10:00,10:03,12:43,12:48,Aucune
+2026-05-29,T0041,Train Navette Rapide,Fes-Rabat,Fes,Rabat,07:00,08:27,09:47,11:25,Technique
+2026-03-22,T0042,Al Boraq,Fes-Casa,Fes,Casa,13:00,13:00,15:01,15:17,Aucune
+2026-06-15,T0043,Al Boraq,Casa-Tanger,Casa,Tanger,13:00,13:11,17:12,17:32,Météo
+2026-06-09,T0044,Train Navette Rapide,Rabat-Fes,Rabat,Fes,07:00,07:00,10:17,10:17,Aucune
+2026-03-31,T0045,Al Atlas,Fes-Casa,Fes,Casa,14:00,14:03,16:12,16:32,Aucune
+2026-03-19,T0046,Train Navette Rapide,Rabat-Casa,Rabat,Casa,06:00,06:29,09:50,10:35,Exploitation
+2026-01-27,T0047,Al Atlas,Casa-Marrakech,Casa,Marrakech,07:30,08:04,08:57,09:34,Technique
+2026-03-14,T0048,Train Navette Rapide,Fes-Casa,Fes,Casa,13:00,13:48,14:52,15:51,Technique
+2026-05-06,T0049,Al Boraq,Fes-Rabat,Fes,Rabat,07:00,07:00,10:42,10:42,Aucune
+2026-01-01,T0050,Al Boraq,Casa-Fes,Casa,Fes,11:00,12:25,12:41,14:23,Technique
+2026-04-20,T0051,Train Navette Rapide,Fes-Rabat,Fes,Rabat,07:30,07:59,08:49,09:30,Météo
+2026-01-10,T0052,Al Boraq,Casa-Rabat,Casa,Rabat,20:00,20:00,21:37,21:41,Aucune
+2026-04-04,T0053,Al Atlas,Marrakech-Casa,Marrakech,Casa,09:00,09:00,12:54,13:00,Aucune
+2026-05-24,T0054,Al Boraq,Casa-Rabat,Casa,Rabat,08:00,08:21,10:00,10:29,Exploitation
+2026-01-07,T0055,Al Atlas,Marrakech-Casa,Marrakech,Casa,16:00,16:25,19:51,20:19,Exploitation
+2026-02-10,T0056,Train Navette Rapide,Rabat-Fes,Rabat,Fes,15:00,15:24,16:09,16:34,Exploitation
+2026-04-28,T0057,Al Boraq,Casa-Marrakech,Casa,Marrakech,10:00,10:00,11:57,12:04,Aucune
+2026-03-26,T0058,Al Boraq,Rabat-Fes,Rabat,Fes,11:00,11:17,13:29,14:02,Trafic
+2026-05-18,T0059,Al Boraq,Fes-Rabat,Fes,Rabat,07:30,07:30,09:36,09:36,Aucune
+2026-01-28,T0060,Train Navette Rapide,Tanger-Casa,Tanger,Casa,14:00,14:37,18:06,18:57,Exploitation
+2026-05-11,T0061,Al Atlas,Tanger-Casa,Tanger,Casa,09:00,09:02,11:05,11:05,Aucune
+2026-05-14,T0062,Train Navette Rapide,Fes-Casa,Fes,Casa,14:00,14:05,16:50,17:00,Aucune
+2026-06-09,T0063,Al Boraq,Rabat-Fes,Rabat,Fes,12:00,12:02,15:09,15:16,Aucune
+2026-04-14,T0064,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,20:00,20:05,21:32,21:44,Aucune
+2026-06-23,T0065,Train Navette Rapide,Casa-Fes,Casa,Fes,12:00,12:05,14:43,14:52,Trafic
+2026-03-15,T0066,Al Atlas,Tanger-Casa,Tanger,Casa,13:00,13:05,15:59,16:05,Aucune
+2026-05-11,T0067,Al Boraq,Casa-Fes,Casa,Fes,07:00,07:25,09:12,09:51,Trafic
+2026-03-27,T0068,Al Atlas,Fes-Casa,Fes,Casa,12:00,12:19,13:57,14:11,Exploitation
+2026-01-12,T0069,Al Atlas,Casa-Tanger,Casa,Tanger,07:00,07:05,09:56,10:14,Aucune
+2026-02-19,T0070,Train Navette Rapide,Tanger-Casa,Tanger,Casa,18:00,18:05,20:42,21:04,Aucune
+2026-01-02,T0071,Al Atlas,Tanger-Casa,Tanger,Casa,10:00,10:54,11:45,12:50,Exploitation
+2026-04-29,T0072,Al Atlas,Rabat-Casa,Rabat,Casa,10:00,10:30,11:31,12:10,Trafic
+2026-06-20,T0073,Train Navette Rapide,Rabat-Casa,Rabat,Casa,13:00,14:14,17:13,18:35,Météo
+2026-05-21,T0074,Al Boraq,Casa-Fes,Casa,Fes,18:00,18:00,20:55,21:10,Aucune
+2026-03-12,T0075,Train Navette Rapide,Casa-Tanger,Casa,Tanger,10:00,10:05,12:10,12:19,Aucune
+2026-03-02,T0076,Al Boraq,Marrakech-Casa,Marrakech,Casa,13:00,13:00,16:18,16:20,Aucune
+2026-04-09,T0077,Train Navette Rapide,Casa-Fes,Casa,Fes,09:00,09:00,10:16,10:28,Aucune
+2026-04-30,T0078,Al Boraq,Fes-Rabat,Fes,Rabat,09:00,09:03,11:47,12:07,Aucune
+2026-01-06,T0079,Train Navette Rapide,Tanger-Casa,Tanger,Casa,18:00,18:48,19:01,20:08,Météo
+2026-04-10,T0080,Al Boraq,Rabat-Casa,Rabat,Casa,20:00,21:12,23:34,00:48,Météo
+2026-03-11,T0081,Al Boraq,Casa-Tanger,Casa,Tanger,06:00,06:05,08:39,09:04,Aucune
+2026-04-14,T0082,Train Navette Rapide,Casa-Fes,Casa,Fes,17:00,18:28,18:32,19:55,Incident voyageur
+2026-04-11,T0083,Train Navette Rapide,Casa-Rabat,Casa,Rabat,06:00,06:09,07:21,07:39,Trafic
+2026-02-16,T0084,Al Atlas,Casa-Marrakech,Casa,Marrakech,15:00,15:00,17:23,17:28,Aucune
+2026-04-08,T0085,Al Boraq,Tanger-Casa,Tanger,Casa,11:00,11:28,12:20,13:00,Trafic
+2026-01-14,T0086,Al Boraq,Fes-Casa,Fes,Casa,07:00,07:15,11:19,11:53,Météo
+2026-01-08,T0087,Al Atlas,Fes-Casa,Fes,Casa,06:00,06:00,09:39,09:49,Aucune
+2026-06-21,T0088,Al Atlas,Casa-Rabat,Casa,Rabat,09:00,10:02,11:59,13:01,Technique
+2026-06-05,T0089,Train Navette Rapide,Rabat-Fes,Rabat,Fes,08:30,08:30,10:49,10:53,Aucune
+2026-05-28,T0090,Train Navette Rapide,Tanger-Casa,Tanger,Casa,15:00,15:03,19:03,19:23,Aucune
+2026-06-10,T0091,Al Atlas,Rabat-Fes,Rabat,Fes,12:00,12:08,15:55,16:23,Trafic
+2026-05-25,T0092,Al Atlas,Marrakech-Casa,Marrakech,Casa,20:00,20:23,22:49,23:23,Technique
+2026-06-15,T0093,Al Boraq,Fes-Rabat,Fes,Rabat,16:00,16:00,19:05,19:20,Aucune
+2026-04-28,T0094,Train Navette Rapide,Casa-Fes,Casa,Fes,16:00,16:49,17:45,18:48,Technique
+2026-05-18,T0095,Al Boraq,Casa-Tanger,Casa,Tanger,16:00,16:15,20:07,20:24,Trafic
+2026-01-23,T0096,Al Boraq,Casa-Tanger,Casa,Tanger,10:00,10:24,14:12,14:52,Trafic
+2026-04-08,T0097,Al Boraq,Fes-Rabat,Fes,Rabat,18:00,18:00,20:23,20:29,Aucune
+2026-03-08,T0098,Al Boraq,Casa-Marrakech,Casa,Marrakech,11:00,11:00,14:22,14:22,Aucune
+2026-03-03,T0099,Train Navette Rapide,Tanger-Casa,Tanger,Casa,18:00,19:15,21:22,22:52,Technique
+2026-05-06,T0100,Al Boraq,Fes-Rabat,Fes,Rabat,07:00,07:05,09:15,09:22,Aucune
+2026-03-20,T0101,Train Navette Rapide,Casa-Rabat,Casa,Rabat,14:00,14:16,17:01,17:25,Trafic
+2026-05-21,T0102,Al Boraq,Marrakech-Casa,Marrakech,Casa,17:00,17:00,19:09,19:09,Aucune
+2026-02-19,T0103,Al Boraq,Rabat-Fes,Rabat,Fes,20:00,20:39,00:15,00:55,Technique
+2026-05-04,T0104,Al Boraq,Casa-Rabat,Casa,Rabat,19:00,19:00,22:32,22:33,Aucune
+2026-03-17,T0105,Al Atlas,Marrakech-Casa,Marrakech,Casa,08:30,08:33,10:47,10:49,Aucune
+2026-03-12,T0106,Al Atlas,Fes-Rabat,Fes,Rabat,20:00,20:31,22:14,23:00,Technique
+2026-05-06,T0107,Al Atlas,Fes-Rabat,Fes,Rabat,12:00,12:15,15:00,15:15,Trafic
+2026-01-14,T0108,Al Boraq,Casa-Tanger,Casa,Tanger,07:30,07:30,08:46,08:59,Aucune
+2026-06-11,T0109,Train Navette Rapide,Fes-Rabat,Fes,Rabat,08:00,08:29,09:38,10:04,Exploitation
+2026-03-05,T0110,Al Atlas,Rabat-Casa,Rabat,Casa,16:00,16:24,19:35,20:01,Trafic
+2026-05-14,T0111,Al Boraq,Casa-Tanger,Casa,Tanger,17:00,17:37,19:16,19:57,Exploitation
+2026-05-26,T0112,Train Navette Rapide,Fes-Rabat,Fes,Rabat,07:30,07:30,11:45,11:48,Aucune
+2026-06-19,T0113,Al Atlas,Casa-Fes,Casa,Fes,10:00,10:10,11:44,11:49,Trafic
+2026-04-15,T0114,Al Boraq,Casa-Rabat,Casa,Rabat,18:00,18:00,20:14,20:31,Aucune
+2026-03-14,T0115,Train Navette Rapide,Casa-Tanger,Casa,Tanger,07:00,07:00,10:55,11:15,Aucune
+2026-06-10,T0116,Train Navette Rapide,Fes-Casa,Fes,Casa,16:00,16:25,17:29,17:53,Trafic
+2026-03-10,T0117,Al Atlas,Rabat-Fes,Rabat,Fes,06:30,07:18,08:12,09:18,Exploitation
+2026-05-26,T0118,Al Boraq,Casa-Tanger,Casa,Tanger,07:30,08:36,10:29,11:38,Technique
+2026-05-09,T0119,Train Navette Rapide,Casa-Tanger,Casa,Tanger,17:00,17:33,18:20,19:01,Trafic
+2026-03-24,T0120,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,06:00,06:05,07:23,07:41,Aucune
+2026-05-31,T0121,Al Atlas,Casa-Marrakech,Casa,Marrakech,06:30,07:45,10:45,12:11,Technique
+2026-06-16,T0122,Al Boraq,Casa-Marrakech,Casa,Marrakech,08:30,08:32,11:59,11:59,Aucune
+2026-05-01,T0123,Al Boraq,Tanger-Casa,Tanger,Casa,13:00,13:35,15:22,16:02,Technique
+2026-04-16,T0124,Train Navette Rapide,Casa-Tanger,Casa,Tanger,12:00,12:14,15:49,16:12,Météo
+2026-01-23,T0125,Al Boraq,Casa-Marrakech,Casa,Marrakech,13:00,14:11,14:29,15:51,Incident voyageur
+2026-01-01,T0126,Train Navette Rapide,Rabat-Casa,Rabat,Casa,17:00,17:03,19:45,19:54,Aucune
+2026-06-09,T0127,Al Boraq,Casa-Tanger,Casa,Tanger,06:30,06:30,08:22,08:26,Aucune
+2026-04-23,T0128,Train Navette Rapide,Casa-Tanger,Casa,Tanger,07:30,09:07,08:37,10:34,Incident voyageur
+2026-03-03,T0129,Train Navette Rapide,Casa-Fes,Casa,Fes,12:00,12:02,15:21,15:21,Aucune
+2026-02-27,T0130,Al Atlas,Casa-Tanger,Casa,Tanger,07:30,08:11,11:15,12:13,Exploitation
+2026-03-16,T0131,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,16:00,16:51,19:03,20:03,Incident voyageur
+2026-05-22,T0132,Al Atlas,Tanger-Casa,Tanger,Casa,09:00,09:33,12:33,13:05,Trafic
+2026-01-18,T0133,Al Boraq,Tanger-Casa,Tanger,Casa,13:00,13:00,16:09,16:13,Aucune
+2026-03-18,T0134,Train Navette Rapide,Casa-Rabat,Casa,Rabat,18:00,18:02,19:38,19:46,Aucune
+2026-03-27,T0135,Train Navette Rapide,Rabat-Casa,Rabat,Casa,15:00,15:34,17:56,18:47,Météo
+2026-03-03,T0136,Train Navette Rapide,Tanger-Casa,Tanger,Casa,10:00,10:00,14:18,14:36,Aucune
+2026-05-02,T0137,Train Navette Rapide,Tanger-Casa,Tanger,Casa,15:00,15:51,18:49,19:39,Exploitation
+2026-05-07,T0138,Al Atlas,Casa-Fes,Casa,Fes,19:00,19:00,22:31,22:40,Aucune
+2026-01-26,T0139,Train Navette Rapide,Casa-Tanger,Casa,Tanger,06:00,06:05,10:04,10:08,Aucune
+2026-01-20,T0140,Al Boraq,Casa-Marrakech,Casa,Marrakech,13:00,13:25,16:39,17:09,Technique
+2026-06-22,T0141,Train Navette Rapide,Tanger-Casa,Tanger,Casa,13:00,14:17,16:40,18:09,Technique
+2026-01-10,T0142,Train Navette Rapide,Rabat-Fes,Rabat,Fes,10:00,10:51,13:41,14:34,Technique
+2026-01-24,T0143,Al Boraq,Rabat-Fes,Rabat,Fes,07:30,07:30,10:23,10:23,Aucune
+2026-01-12,T0144,Al Boraq,Fes-Rabat,Fes,Rabat,12:00,12:00,14:31,14:33,Aucune
+2026-05-16,T0145,Al Boraq,Casa-Rabat,Casa,Rabat,08:30,08:33,10:13,10:23,Aucune
+2026-06-08,T0146,Train Navette Rapide,Fes-Casa,Fes,Casa,18:00,18:02,21:29,21:46,Aucune
+2026-03-07,T0147,Al Boraq,Casa-Marrakech,Casa,Marrakech,06:00,06:30,08:59,09:26,Météo
+2026-04-24,T0148,Al Boraq,Casa-Rabat,Casa,Rabat,12:00,12:52,15:43,16:44,Incident voyageur
+2026-03-19,T0149,Al Atlas,Tanger-Casa,Tanger,Casa,18:00,18:03,19:27,19:36,Aucune
+2026-05-28,T0150,Al Boraq,Casa-Marrakech,Casa,Marrakech,06:00,06:00,09:48,10:01,Aucune
+2026-06-25,T0151,Train Navette Rapide,Fes-Rabat,Fes,Rabat,18:00,18:24,20:13,20:51,Exploitation
+2026-04-01,T0152,Al Atlas,Fes-Casa,Fes,Casa,11:00,11:32,14:53,15:40,Technique
+2026-01-25,T0153,Train Navette Rapide,Fes-Rabat,Fes,Rabat,12:00,12:00,14:52,15:10,Aucune
+2026-02-03,T0154,Al Atlas,Casa-Marrakech,Casa,Marrakech,13:00,13:00,17:11,17:11,Aucune
+2026-05-19,T0155,Al Boraq,Rabat-Casa,Rabat,Casa,19:00,19:26,21:09,21:45,Exploitation
+2026-03-17,T0156,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,07:30,08:08,10:29,11:26,Incident voyageur
+2026-02-27,T0157,Train Navette Rapide,Tanger-Casa,Tanger,Casa,20:00,20:02,22:33,22:33,Aucune
+2026-03-09,T0158,Train Navette Rapide,Rabat-Fes,Rabat,Fes,17:00,17:48,19:34,20:35,Technique
+2026-04-08,T0159,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,07:30,07:30,11:22,11:36,Aucune
+2026-05-24,T0160,Al Boraq,Casa-Rabat,Casa,Rabat,10:00,10:02,13:45,14:04,Aucune
+2026-03-19,T0161,Train Navette Rapide,Tanger-Casa,Tanger,Casa,07:30,07:30,09:05,09:09,Aucune
+2026-05-07,T0162,Al Atlas,Rabat-Fes,Rabat,Fes,10:00,10:02,13:17,13:25,Aucune
+2026-06-21,T0163,Train Navette Rapide,Rabat-Casa,Rabat,Casa,16:00,16:34,19:30,20:12,Technique
+2026-06-17,T0164,Al Atlas,Casa-Tanger,Casa,Tanger,16:00,16:00,18:11,18:12,Aucune
+2026-04-24,T0165,Al Boraq,Fes-Casa,Fes,Casa,14:00,15:07,15:25,16:44,Incident voyageur
+2026-06-15,T0166,Al Boraq,Fes-Rabat,Fes,Rabat,15:00,15:00,17:10,17:19,Aucune
+2026-01-24,T0167,Train Navette Rapide,Fes-Casa,Fes,Casa,06:00,06:25,07:12,07:36,Exploitation
+2026-05-25,T0168,Al Atlas,Rabat-Fes,Rabat,Fes,20:00,20:31,21:53,22:26,Trafic
+2026-03-26,T0169,Al Atlas,Casa-Rabat,Casa,Rabat,06:00,06:19,08:10,08:28,Exploitation
+2026-05-19,T0170,Al Boraq,Casa-Fes,Casa,Fes,07:30,07:48,11:19,11:32,Exploitation
+2026-04-02,T0171,Al Atlas,Casa-Rabat,Casa,Rabat,13:00,13:00,14:04,14:04,Aucune
+2026-04-18,T0172,Train Navette Rapide,Rabat-Fes,Rabat,Fes,07:00,07:00,10:01,10:12,Aucune
+2026-06-01,T0173,Al Atlas,Casa-Tanger,Casa,Tanger,19:00,19:15,20:56,21:29,Météo
+2026-06-18,T0174,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,17:00,17:27,20:44,21:21,Incident voyageur
+2026-04-13,T0175,Al Boraq,Rabat-Fes,Rabat,Fes,18:00,18:19,22:02,22:18,Météo
+2026-03-24,T0176,Train Navette Rapide,Casa-Fes,Casa,Fes,07:00,07:05,08:32,08:50,Aucune
+2026-05-21,T0177,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,15:00,15:19,18:32,19:02,Trafic
+2026-06-04,T0178,Al Boraq,Rabat-Fes,Rabat,Fes,07:30,08:55,11:17,13:00,Technique
+2026-02-25,T0179,Al Boraq,Casa-Tanger,Casa,Tanger,10:00,10:02,12:45,12:54,Aucune
+2026-04-17,T0180,Train Navette Rapide,Rabat-Fes,Rabat,Fes,13:00,13:00,15:49,15:55,Aucune
+2026-02-09,T0181,Train Navette Rapide,Casa-Tanger,Casa,Tanger,07:00,07:15,08:23,08:46,Exploitation
+2026-01-25,T0182,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,08:00,08:03,11:22,11:37,Aucune
+2026-03-26,T0183,Train Navette Rapide,Rabat-Fes,Rabat,Fes,16:00,16:58,18:30,19:36,Exploitation
+2026-01-14,T0184,Al Boraq,Casa-Rabat,Casa,Rabat,12:00,12:03,14:30,14:34,Aucune
+2026-02-09,T0185,Train Navette Rapide,Casa-Tanger,Casa,Tanger,10:00,10:03,11:27,11:36,Aucune
+2026-01-30,T0186,Al Boraq,Casa-Rabat,Casa,Rabat,10:00,10:59,12:49,14:02,Exploitation
+2026-06-07,T0187,Train Navette Rapide,Rabat-Casa,Rabat,Casa,06:00,06:44,09:35,10:14,Météo
+2026-02-16,T0188,Al Boraq,Casa-Marrakech,Casa,Marrakech,13:00,13:00,15:29,15:42,Aucune
+2026-06-18,T0189,Al Boraq,Rabat-Fes,Rabat,Fes,08:00,08:05,12:09,12:11,Trafic
+2026-05-16,T0190,Al Atlas,Tanger-Casa,Tanger,Casa,16:00,16:00,18:56,19:00,Aucune
+2026-03-25,T0191,Train Navette Rapide,Casa-Rabat,Casa,Rabat,07:00,07:03,08:13,08:13,Aucune
+2026-06-22,T0192,Al Atlas,Casa-Marrakech,Casa,Marrakech,17:00,17:03,20:49,21:01,Aucune
+2026-04-17,T0193,Al Boraq,Fes-Casa,Fes,Casa,19:00,19:00,20:29,20:33,Aucune
+2026-06-23,T0194,Train Navette Rapide,Casa-Rabat,Casa,Rabat,18:00,18:20,21:14,21:36,Technique
+2026-04-12,T0195,Train Navette Rapide,Fes-Rabat,Fes,Rabat,06:00,06:00,07:52,08:11,Aucune
+2026-02-05,T0196,Al Boraq,Casa-Marrakech,Casa,Marrakech,13:00,13:05,14:30,14:43,Aucune
+2026-02-14,T0197,Al Atlas,Tanger-Casa,Tanger,Casa,20:00,20:03,00:00,00:19,Aucune
+2026-04-01,T0198,Al Atlas,Tanger-Casa,Tanger,Casa,06:30,06:30,09:21,09:26,Aucune
+2026-05-28,T0199,Al Boraq,Casa-Rabat,Casa,Rabat,15:00,15:14,19:01,19:13,Trafic
+2026-04-14,T0200,Al Atlas,Marrakech-Casa,Marrakech,Casa,08:30,08:57,12:08,12:41,Trafic
+2026-01-23,T0201,Al Boraq,Rabat-Fes,Rabat,Fes,10:00,10:21,12:51,13:09,Trafic
+2026-04-12,T0202,Al Boraq,Marrakech-Casa,Marrakech,Casa,10:00,10:14,12:25,12:50,Exploitation
+2026-06-12,T0203,Al Atlas,Rabat-Casa,Rabat,Casa,19:00,19:54,20:49,21:49,Météo
+2026-06-15,T0204,Al Atlas,Fes-Casa,Fes,Casa,07:30,07:30,09:07,09:21,Aucune
+2026-02-09,T0205,Train Navette Rapide,Rabat-Fes,Rabat,Fes,08:30,08:49,12:47,13:25,Trafic
+2026-05-25,T0206,Train Navette Rapide,Casa-Tanger,Casa,Tanger,13:00,13:02,16:40,16:40,Aucune
+2026-05-01,T0207,Al Boraq,Casa-Marrakech,Casa,Marrakech,11:00,11:03,14:31,14:31,Aucune
+2026-03-21,T0208,Al Boraq,Casa-Tanger,Casa,Tanger,06:30,06:30,07:44,07:44,Aucune
+2026-06-15,T0209,Al Atlas,Casa-Rabat,Casa,Rabat,19:00,19:22,21:38,22:20,Trafic
+2026-01-11,T0210,Al Boraq,Casa-Rabat,Casa,Rabat,09:00,09:21,11:22,11:42,Trafic
+2026-01-16,T0211,Al Boraq,Rabat-Fes,Rabat,Fes,13:00,13:05,17:02,17:07,Aucune
+2026-01-11,T0212,Al Atlas,Casa-Tanger,Casa,Tanger,17:00,17:10,20:14,20:30,Trafic
+2026-04-06,T0213,Al Boraq,Tanger-Casa,Tanger,Casa,16:00,16:03,20:18,20:18,Aucune
+2026-06-11,T0214,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,07:00,07:05,09:24,09:36,Aucune
+2026-03-14,T0215,Al Boraq,Casa-Rabat,Casa,Rabat,08:00,08:05,10:25,10:29,Aucune
+2026-03-31,T0216,Al Boraq,Tanger-Casa,Tanger,Casa,08:00,08:25,11:32,12:01,Technique
+2026-05-24,T0217,Al Boraq,Marrakech-Casa,Marrakech,Casa,08:00,09:22,11:51,13:10,Technique
+2026-06-15,T0218,Train Navette Rapide,Tanger-Casa,Tanger,Casa,19:00,19:00,21:32,21:32,Aucune
+2026-02-24,T0219,Al Boraq,Casa-Tanger,Casa,Tanger,09:00,09:39,10:57,11:33,Incident voyageur
+2026-03-17,T0220,Al Atlas,Rabat-Casa,Rabat,Casa,20:00,20:12,00:09,00:37,Exploitation
+2026-03-28,T0221,Train Navette Rapide,Casa-Fes,Casa,Fes,15:00,15:05,16:39,17:03,Aucune
+2026-06-09,T0222,Al Atlas,Casa-Tanger,Casa,Tanger,06:30,06:35,09:15,09:22,Aucune
+2026-04-24,T0223,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,17:00,17:14,18:59,19:33,Trafic
+2026-05-01,T0224,Al Atlas,Marrakech-Casa,Marrakech,Casa,17:00,18:03,19:58,21:12,Technique
+2026-05-16,T0225,Al Boraq,Casa-Fes,Casa,Fes,09:00,09:00,12:34,12:34,Aucune
+2026-06-14,T0226,Al Boraq,Marrakech-Casa,Marrakech,Casa,20:00,21:21,21:26,22:45,Technique
+2026-03-14,T0227,Al Atlas,Casa-Fes,Casa,Fes,11:00,11:28,13:55,14:31,Météo
+2026-01-24,T0228,Al Atlas,Casa-Tanger,Casa,Tanger,14:00,14:02,15:06,15:19,Aucune
+2026-04-06,T0229,Al Atlas,Tanger-Casa,Tanger,Casa,07:00,07:00,09:35,09:35,Aucune
+2026-06-16,T0230,Al Boraq,Casa-Fes,Casa,Fes,08:00,08:02,09:09,09:28,Aucune
+2026-02-05,T0231,Train Navette Rapide,Casa-Tanger,Casa,Tanger,17:00,17:00,20:37,20:37,Aucune
+2026-03-07,T0232,Al Atlas,Casa-Fes,Casa,Fes,20:00,20:18,00:06,00:22,Trafic
+2026-03-15,T0233,Al Atlas,Casa-Marrakech,Casa,Marrakech,07:30,07:35,08:42,09:07,Aucune
+2026-06-09,T0234,Al Boraq,Rabat-Fes,Rabat,Fes,07:30,07:35,10:37,10:57,Trafic
+2026-05-12,T0235,Train Navette Rapide,Fes-Casa,Fes,Casa,08:00,08:03,10:14,10:23,Aucune
+2026-03-03,T0236,Train Navette Rapide,Tanger-Casa,Tanger,Casa,08:30,09:52,12:20,13:48,Technique
+2026-01-18,T0237,Train Navette Rapide,Rabat-Casa,Rabat,Casa,19:00,19:17,22:09,22:36,Trafic
+2026-01-12,T0238,Train Navette Rapide,Tanger-Casa,Tanger,Casa,14:00,15:00,16:04,17:24,Technique
+2026-01-18,T0239,Al Boraq,Fes-Casa,Fes,Casa,07:30,07:59,11:47,12:21,Trafic
+2026-02-04,T0240,Al Atlas,Marrakech-Casa,Marrakech,Casa,20:00,20:21,22:26,23:06,Exploitation
+2026-06-25,T0241,Al Boraq,Casa-Tanger,Casa,Tanger,08:30,08:32,10:04,10:04,Aucune
+2026-03-17,T0242,Al Atlas,Fes-Rabat,Fes,Rabat,09:00,09:00,10:10,10:21,Aucune
+2026-04-12,T0243,Train Navette Rapide,Casa-Tanger,Casa,Tanger,11:00,11:39,12:09,12:52,Technique
+2026-04-02,T0244,Al Atlas,Marrakech-Casa,Marrakech,Casa,11:00,11:37,12:31,13:15,Exploitation
+2026-04-23,T0245,Al Boraq,Marrakech-Casa,Marrakech,Casa,08:30,09:32,11:37,12:59,Technique
+2026-05-13,T0246,Al Boraq,Rabat-Fes,Rabat,Fes,16:00,16:00,17:20,17:32,Aucune
+2026-03-17,T0247,Al Boraq,Rabat-Fes,Rabat,Fes,07:00,07:54,09:23,10:26,Technique
+2026-06-04,T0248,Train Navette Rapide,Tanger-Casa,Tanger,Casa,08:30,08:32,12:26,12:26,Aucune
+2026-04-01,T0249,Train Navette Rapide,Tanger-Casa,Tanger,Casa,11:00,11:27,14:43,15:07,Incident voyageur
+2026-06-21,T0250,Train Navette Rapide,Tanger-Casa,Tanger,Casa,14:00,14:53,17:11,18:04,Exploitation
+2026-01-08,T0251,Al Atlas,Casa-Rabat,Casa,Rabat,17:00,17:00,18:08,18:27,Aucune
+2026-06-15,T0252,Al Boraq,Marrakech-Casa,Marrakech,Casa,15:00,15:00,18:25,18:41,Aucune
+2026-04-26,T0253,Al Boraq,Marrakech-Casa,Marrakech,Casa,17:00,17:00,21:15,21:26,Aucune
+2026-04-04,T0254,Al Boraq,Marrakech-Casa,Marrakech,Casa,11:00,11:23,13:03,13:44,Incident voyageur
+2026-02-17,T0255,Al Boraq,Rabat-Casa,Rabat,Casa,15:00,15:00,18:23,18:40,Aucune
+2026-04-25,T0256,Al Atlas,Casa-Rabat,Casa,Rabat,12:00,13:12,15:57,17:10,Météo
+2026-02-01,T0257,Al Atlas,Rabat-Fes,Rabat,Fes,17:00,18:06,18:44,19:47,Météo
+2026-06-24,T0258,Al Boraq,Marrakech-Casa,Marrakech,Casa,07:00,07:33,10:20,10:57,Trafic
+2026-02-10,T0259,Train Navette Rapide,Casa-Fes,Casa,Fes,14:00,14:00,17:10,17:30,Aucune
+2026-02-05,T0260,Al Atlas,Casa-Tanger,Casa,Tanger,06:00,06:16,08:32,08:57,Trafic
+2026-05-22,T0261,Al Atlas,Casa-Rabat,Casa,Rabat,07:00,07:05,08:16,08:39,Aucune
+2026-05-03,T0262,Train Navette Rapide,Tanger-Casa,Tanger,Casa,16:00,16:00,19:27,19:42,Aucune
+2026-01-19,T0263,Al Boraq,Casa-Tanger,Casa,Tanger,19:00,19:03,21:28,21:46,Aucune
+2026-05-31,T0264,Al Atlas,Casa-Fes,Casa,Fes,16:00,16:17,19:08,19:23,Météo
+2026-05-13,T0265,Al Atlas,Casa-Marrakech,Casa,Marrakech,08:30,08:35,10:11,10:18,Aucune
+2026-03-30,T0266,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,07:00,07:03,09:04,09:10,Aucune
+2026-02-02,T0267,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,20:00,20:10,21:23,21:46,Trafic
+2026-05-29,T0268,Al Atlas,Casa-Fes,Casa,Fes,13:00,13:00,16:24,16:24,Aucune
+2026-01-12,T0269,Train Navette Rapide,Casa-Rabat,Casa,Rabat,11:00,11:03,14:46,14:57,Aucune
+2026-06-08,T0270,Train Navette Rapide,Fes-Rabat,Fes,Rabat,18:00,18:25,21:40,22:09,Trafic
+2026-05-04,T0271,Al Atlas,Tanger-Casa,Tanger,Casa,12:00,12:00,14:56,14:56,Aucune
+2026-04-23,T0272,Al Boraq,Casa-Tanger,Casa,Tanger,17:00,17:00,18:52,18:57,Aucune
+2026-03-23,T0273,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,15:00,16:20,16:33,18:05,Technique
+2026-01-28,T0274,Al Boraq,Fes-Casa,Fes,Casa,17:00,17:00,18:31,18:31,Aucune
+2026-01-25,T0275,Al Atlas,Casa-Marrakech,Casa,Marrakech,15:00,15:00,18:37,18:42,Aucune
+2026-05-28,T0276,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,09:00,09:03,13:15,13:27,Aucune
+2026-05-08,T0277,Al Boraq,Casa-Tanger,Casa,Tanger,06:00,07:14,07:23,08:46,Météo
+2026-03-03,T0278,Al Atlas,Casa-Rabat,Casa,Rabat,14:00,14:02,15:12,15:28,Aucune
+2026-06-17,T0279,Train Navette Rapide,Casa-Tanger,Casa,Tanger,12:00,12:00,15:17,15:25,Aucune
+2026-02-04,T0280,Al Boraq,Marrakech-Casa,Marrakech,Casa,15:00,15:00,17:33,17:46,Aucune
+2026-05-24,T0281,Al Atlas,Marrakech-Casa,Marrakech,Casa,20:00,20:03,22:13,22:25,Aucune
+2026-05-21,T0282,Al Boraq,Casa-Rabat,Casa,Rabat,07:30,08:40,09:02,10:18,Incident voyageur
+2026-03-28,T0283,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,08:00,08:17,09:50,10:18,Trafic
+2026-01-11,T0284,Al Atlas,Fes-Rabat,Fes,Rabat,08:00,08:02,12:02,12:15,Aucune
+2026-04-27,T0285,Al Atlas,Casa-Rabat,Casa,Rabat,19:00,19:03,20:35,20:43,Aucune
+2026-02-11,T0286,Al Boraq,Casa-Rabat,Casa,Rabat,12:00,12:03,15:31,15:46,Aucune
+2026-05-06,T0287,Train Navette Rapide,Casa-Rabat,Casa,Rabat,12:00,12:33,15:01,15:39,Exploitation
+2026-06-22,T0288,Al Atlas,Tanger-Casa,Tanger,Casa,12:00,12:50,16:05,16:50,Exploitation
+2026-06-02,T0289,Al Boraq,Casa-Marrakech,Casa,Marrakech,10:00,10:02,14:04,14:06,Aucune
+2026-05-15,T0290,Train Navette Rapide,Casa-Rabat,Casa,Rabat,15:00,15:25,16:37,16:58,Exploitation
+2026-05-27,T0291,Train Navette Rapide,Rabat-Fes,Rabat,Fes,09:00,09:02,10:04,10:05,Aucune
+2026-04-16,T0292,Train Navette Rapide,Fes-Casa,Fes,Casa,16:00,16:40,19:08,20:06,Exploitation
+2026-01-16,T0293,Train Navette Rapide,Casa-Fes,Casa,Fes,19:00,19:26,20:53,21:29,Trafic
+2026-05-15,T0294,Al Boraq,Marrakech-Casa,Marrakech,Casa,08:30,09:23,11:27,12:32,Météo
+2026-04-01,T0295,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,18:00,18:45,19:49,20:46,Météo
+2026-03-18,T0296,Al Atlas,Casa-Marrakech,Casa,Marrakech,12:00,12:05,16:00,16:15,Aucune
+2026-03-23,T0297,Al Boraq,Marrakech-Casa,Marrakech,Casa,20:00,20:00,00:04,00:17,Aucune
+2026-06-23,T0298,Train Navette Rapide,Tanger-Casa,Tanger,Casa,15:00,15:28,17:28,18:00,Météo
+2026-01-11,T0299,Al Boraq,Rabat-Fes,Rabat,Fes,14:00,15:16,16:53,18:10,Technique
+2026-02-21,T0300,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,20:00,20:00,23:58,00:12,Aucune
+2026-05-31,T0301,Al Atlas,Fes-Casa,Fes,Casa,06:30,07:08,10:21,11:14,Météo
+2026-03-01,T0302,Al Atlas,Rabat-Fes,Rabat,Fes,16:00,16:27,18:24,19:07,Technique
+2026-02-05,T0303,Al Atlas,Rabat-Casa,Rabat,Casa,08:30,09:45,11:14,12:39,Technique
+2026-06-16,T0304,Al Atlas,Casa-Marrakech,Casa,Marrakech,13:00,13:34,15:13,16:06,Trafic
+2026-01-23,T0305,Train Navette Rapide,Casa-Rabat,Casa,Rabat,10:00,10:19,13:16,13:35,Technique
+2026-04-17,T0306,Al Atlas,Fes-Rabat,Fes,Rabat,15:00,15:05,18:06,18:15,Aucune
+2026-01-10,T0307,Al Atlas,Casa-Marrakech,Casa,Marrakech,07:30,07:35,09:55,10:12,Aucune
+2026-05-15,T0308,Al Boraq,Casa-Fes,Casa,Fes,19:00,19:00,21:59,22:04,Aucune
+2026-02-11,T0309,Train Navette Rapide,Casa-Tanger,Casa,Tanger,11:00,11:05,15:03,15:13,Aucune
+2026-03-17,T0310,Train Navette Rapide,Fes-Casa,Fes,Casa,08:30,09:05,12:06,12:49,Exploitation
+2026-05-12,T0311,Al Boraq,Rabat-Fes,Rabat,Fes,15:00,15:00,18:51,19:01,Aucune
+2026-03-24,T0312,Al Atlas,Fes-Rabat,Fes,Rabat,11:00,11:00,13:38,13:43,Aucune
+2026-03-19,T0313,Train Navette Rapide,Casa-Rabat,Casa,Rabat,06:00,06:45,08:06,08:47,Technique
+2026-06-20,T0314,Al Atlas,Casa-Tanger,Casa,Tanger,12:00,12:03,13:40,14:00,Aucune
+2026-03-21,T0315,Train Navette Rapide,Rabat-Fes,Rabat,Fes,12:00,12:12,14:34,14:45,Trafic
+2026-05-03,T0316,Al Atlas,Casa-Tanger,Casa,Tanger,14:00,15:15,16:46,18:20,Technique
+2026-05-18,T0317,Train Navette Rapide,Fes-Casa,Fes,Casa,10:00,10:25,13:54,14:30,Technique
+2026-04-25,T0318,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,07:00,07:03,10:24,10:38,Aucune
+2026-02-21,T0319,Train Navette Rapide,Rabat-Casa,Rabat,Casa,08:00,08:03,09:42,09:54,Aucune
+2026-01-30,T0320,Train Navette Rapide,Fes-Casa,Fes,Casa,18:00,19:07,19:23,20:50,Météo
+2026-01-15,T0321,Al Boraq,Casa-Fes,Casa,Fes,19:00,19:06,21:46,22:04,Trafic
+2026-04-29,T0322,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,06:00,06:00,08:41,08:59,Aucune
+2026-02-25,T0323,Train Navette Rapide,Rabat-Fes,Rabat,Fes,06:30,06:30,09:18,09:30,Aucune
+2026-01-16,T0324,Al Atlas,Casa-Tanger,Casa,Tanger,06:30,06:30,08:43,09:02,Aucune
+2026-06-14,T0325,Train Navette Rapide,Tanger-Casa,Tanger,Casa,14:00,14:02,16:37,16:46,Aucune
+2026-01-21,T0326,Train Navette Rapide,Rabat-Casa,Rabat,Casa,08:00,08:17,11:47,12:04,Exploitation
+2026-05-18,T0327,Al Boraq,Rabat-Casa,Rabat,Casa,08:00,08:20,12:06,12:45,Incident voyageur
+2026-01-06,T0328,Al Boraq,Casa-Tanger,Casa,Tanger,20:00,20:31,22:48,23:21,Trafic
+2026-03-05,T0329,Al Boraq,Marrakech-Casa,Marrakech,Casa,08:00,08:05,10:10,10:34,Aucune
+2026-01-29,T0330,Al Atlas,Tanger-Casa,Tanger,Casa,06:00,06:00,08:01,08:15,Aucune
+2026-01-09,T0331,Al Boraq,Casa-Rabat,Casa,Rabat,06:30,07:36,08:32,09:47,Technique
+2026-03-01,T0332,Train Navette Rapide,Fes-Casa,Fes,Casa,06:30,06:44,08:05,08:21,Trafic
+2026-05-28,T0333,Al Boraq,Casa-Rabat,Casa,Rabat,13:00,13:00,15:00,15:16,Aucune
+2026-05-14,T0334,Al Atlas,Tanger-Casa,Tanger,Casa,12:00,12:03,14:10,14:31,Aucune
+2026-02-14,T0335,Train Navette Rapide,Tanger-Casa,Tanger,Casa,20:00,20:00,23:06,23:21,Aucune
+2026-06-21,T0336,Al Boraq,Rabat-Casa,Rabat,Casa,13:00,13:00,16:58,17:02,Aucune
+2026-04-07,T0337,Al Atlas,Rabat-Casa,Rabat,Casa,18:00,18:29,20:01,20:47,Exploitation
+2026-02-06,T0338,Al Boraq,Fes-Rabat,Fes,Rabat,20:00,21:31,22:45,00:27,Incident voyageur
+2026-02-04,T0339,Al Boraq,Fes-Casa,Fes,Casa,11:00,11:00,12:52,13:01,Aucune
+2026-04-05,T0340,Al Atlas,Rabat-Casa,Rabat,Casa,09:00,09:05,10:13,10:32,Aucune
+2026-06-04,T0341,Al Atlas,Rabat-Fes,Rabat,Fes,09:00,09:26,13:14,13:52,Trafic
+2026-02-25,T0342,Al Boraq,Fes-Casa,Fes,Casa,13:00,13:11,15:17,15:29,Météo
+2026-02-18,T0343,Train Navette Rapide,Rabat-Fes,Rabat,Fes,18:00,18:41,20:02,20:50,Technique
+2026-03-03,T0344,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,12:00,12:25,14:37,15:08,Trafic
+2026-03-20,T0345,Al Boraq,Marrakech-Casa,Marrakech,Casa,19:00,19:30,22:07,22:55,Trafic
+2026-05-01,T0346,Al Boraq,Fes-Casa,Fes,Casa,14:00,14:03,16:20,16:25,Aucune
+2026-02-07,T0347,Al Atlas,Casa-Marrakech,Casa,Marrakech,20:00,20:18,23:29,23:51,Trafic
+2026-02-09,T0348,Al Atlas,Marrakech-Casa,Marrakech,Casa,10:00,10:12,12:37,12:59,Trafic
+2026-05-21,T0349,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,11:00,11:56,15:15,16:26,Exploitation
+2026-05-06,T0350,Al Boraq,Casa-Fes,Casa,Fes,14:00,14:03,15:43,15:56,Aucune
+2026-02-17,T0351,Train Navette Rapide,Fes-Rabat,Fes,Rabat,19:00,19:14,20:08,20:38,Exploitation
+2026-01-13,T0352,Al Atlas,Tanger-Casa,Tanger,Casa,08:00,08:05,11:41,11:45,Aucune
+2026-01-03,T0353,Al Atlas,Rabat-Casa,Rabat,Casa,17:00,17:05,19:35,19:56,Aucune
+2026-06-07,T0354,Al Boraq,Casa-Tanger,Casa,Tanger,06:00,06:18,07:01,07:14,Trafic
+2026-01-05,T0355,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,20:00,20:05,22:13,22:34,Aucune
+2026-04-21,T0356,Al Atlas,Rabat-Fes,Rabat,Fes,07:30,07:30,10:44,10:58,Aucune
+2026-05-15,T0357,Al Boraq,Marrakech-Casa,Marrakech,Casa,11:00,11:02,13:41,13:52,Aucune
+2026-05-25,T0358,Al Atlas,Fes-Casa,Fes,Casa,12:00,12:15,15:55,16:25,Exploitation
+2026-06-16,T0359,Al Atlas,Rabat-Fes,Rabat,Fes,15:00,15:02,17:37,17:37,Aucune
+2026-06-13,T0360,Al Atlas,Casa-Fes,Casa,Fes,07:00,07:51,10:07,11:18,Exploitation
+2026-03-26,T0361,Train Navette Rapide,Rabat-Fes,Rabat,Fes,19:00,19:05,20:10,20:28,Aucune
+2026-05-02,T0362,Al Boraq,Fes-Rabat,Fes,Rabat,07:00,07:14,10:55,11:09,Météo
+2026-03-22,T0363,Al Atlas,Fes-Casa,Fes,Casa,08:00,08:35,12:12,12:44,Exploitation
+2026-03-18,T0364,Al Atlas,Casa-Rabat,Casa,Rabat,10:00,10:34,13:25,14:15,Exploitation
+2026-05-19,T0365,Al Boraq,Tanger-Casa,Tanger,Casa,08:00,09:19,11:56,13:33,Technique
+2026-03-30,T0366,Al Atlas,Rabat-Fes,Rabat,Fes,16:00,16:31,17:59,18:44,Exploitation
+2026-06-07,T0367,Train Navette Rapide,Tanger-Casa,Tanger,Casa,13:00,13:30,14:07,14:46,Trafic
+2026-05-06,T0368,Al Atlas,Marrakech-Casa,Marrakech,Casa,20:00,20:05,22:36,22:54,Aucune
+2026-06-19,T0369,Al Boraq,Rabat-Fes,Rabat,Fes,12:00,12:25,14:03,14:31,Technique
+2026-02-09,T0370,Al Boraq,Casa-Fes,Casa,Fes,15:00,15:00,17:21,17:21,Aucune
+2026-03-20,T0371,Al Boraq,Marrakech-Casa,Marrakech,Casa,11:00,11:00,12:26,12:34,Aucune
+2026-04-25,T0372,Train Navette Rapide,Rabat-Casa,Rabat,Casa,19:00,19:00,21:44,21:50,Aucune
+2026-05-22,T0373,Al Atlas,Casa-Rabat,Casa,Rabat,13:00,13:02,15:38,15:47,Aucune
+2026-01-22,T0374,Train Navette Rapide,Rabat-Casa,Rabat,Casa,10:00,10:26,13:26,13:59,Trafic
+2026-02-13,T0375,Al Atlas,Casa-Marrakech,Casa,Marrakech,12:00,12:07,14:08,14:15,Trafic
+2026-04-22,T0376,Al Boraq,Tanger-Casa,Tanger,Casa,12:00,12:33,15:03,15:39,Exploitation
+2026-03-05,T0377,Train Navette Rapide,Casa-Tanger,Casa,Tanger,09:00,09:00,11:57,11:57,Aucune
+2026-04-12,T0378,Al Boraq,Casa-Rabat,Casa,Rabat,15:00,15:02,17:24,17:41,Aucune
+2026-06-02,T0379,Al Atlas,Casa-Marrakech,Casa,Marrakech,13:00,13:35,16:34,17:19,Météo
+2026-03-22,T0380,Al Atlas,Tanger-Casa,Tanger,Casa,13:00,14:17,15:14,16:44,Technique
+2026-03-04,T0381,Al Boraq,Tanger-Casa,Tanger,Casa,11:00,11:03,13:40,13:44,Aucune
+2026-06-01,T0382,Train Navette Rapide,Casa-Fes,Casa,Fes,20:00,21:09,21:06,22:32,Météo
+2026-02-23,T0383,Al Boraq,Casa-Marrakech,Casa,Marrakech,07:00,07:32,09:44,10:31,Technique
+2026-03-19,T0384,Al Atlas,Casa-Marrakech,Casa,Marrakech,08:00,08:02,12:03,12:03,Aucune
+2026-04-25,T0385,Train Navette Rapide,Casa-Tanger,Casa,Tanger,15:00,15:34,18:16,19:07,Trafic
+2026-04-18,T0386,Train Navette Rapide,Fes-Rabat,Fes,Rabat,14:00,14:20,17:59,18:17,Météo
+2026-03-05,T0387,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,08:30,08:53,12:15,12:53,Trafic
+2026-06-23,T0388,Train Navette Rapide,Tanger-Casa,Tanger,Casa,13:00,13:00,15:50,15:53,Aucune
+2026-02-26,T0389,Train Navette Rapide,Rabat-Casa,Rabat,Casa,20:00,20:43,23:28,00:20,Technique
+2026-04-06,T0390,Al Boraq,Casa-Tanger,Casa,Tanger,19:00,19:00,20:38,20:48,Aucune
+2026-01-27,T0391,Al Boraq,Tanger-Casa,Tanger,Casa,07:00,07:56,08:29,09:24,Exploitation
+2026-03-31,T0392,Al Boraq,Marrakech-Casa,Marrakech,Casa,17:00,17:02,21:20,21:28,Aucune
+2026-05-02,T0393,Al Atlas,Casa-Tanger,Casa,Tanger,17:00,17:00,19:21,19:41,Aucune
+2026-01-30,T0394,Al Atlas,Marrakech-Casa,Marrakech,Casa,07:30,08:27,11:23,12:22,Exploitation
+2026-05-13,T0395,Al Atlas,Rabat-Casa,Rabat,Casa,08:30,09:05,10:54,11:38,Trafic
+2026-03-01,T0396,Al Boraq,Casa-Fes,Casa,Fes,08:30,09:35,12:13,13:13,Technique
+2026-06-07,T0397,Al Atlas,Casa-Tanger,Casa,Tanger,16:00,16:00,18:39,18:40,Aucune
+2026-03-13,T0398,Train Navette Rapide,Rabat-Fes,Rabat,Fes,07:30,07:30,10:47,10:48,Aucune
+2026-04-28,T0399,Al Atlas,Casa-Marrakech,Casa,Marrakech,18:00,19:00,21:15,22:29,Incident voyageur
+2026-04-10,T0400,Train Navette Rapide,Tanger-Casa,Tanger,Casa,07:30,07:32,09:59,10:15,Aucune
+2026-02-14,T0401,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,07:00,07:00,10:52,10:54,Aucune
+2026-03-20,T0402,Al Atlas,Casa-Fes,Casa,Fes,14:00,14:02,17:57,18:07,Aucune
+2026-06-02,T0403,Al Atlas,Casa-Rabat,Casa,Rabat,15:00,15:05,17:48,18:05,Aucune
+2026-06-27,T0404,Train Navette Rapide,Casa-Fes,Casa,Fes,20:00,20:09,21:42,21:51,Trafic
+2026-03-22,T0405,Al Boraq,Casa-Rabat,Casa,Rabat,06:30,07:42,09:01,10:12,Météo
+2026-02-19,T0406,Al Boraq,Rabat-Casa,Rabat,Casa,19:00,19:26,22:47,23:23,Trafic
+2026-04-17,T0407,Train Navette Rapide,Casa-Tanger,Casa,Tanger,18:00,18:00,19:42,20:02,Aucune
+2026-02-26,T0408,Al Boraq,Fes-Rabat,Fes,Rabat,11:00,11:10,12:57,13:26,Trafic
+2026-04-28,T0409,Train Navette Rapide,Casa-Tanger,Casa,Tanger,20:00,20:00,23:10,23:13,Aucune
+2026-05-20,T0410,Al Boraq,Rabat-Casa,Rabat,Casa,06:30,07:54,10:44,12:09,Technique
+2026-04-19,T0411,Al Atlas,Fes-Casa,Fes,Casa,12:00,12:00,13:08,13:08,Aucune
+2026-04-23,T0412,Al Atlas,Fes-Casa,Fes,Casa,09:00,09:16,13:08,13:41,Trafic
+2026-06-06,T0413,Train Navette Rapide,Tanger-Casa,Tanger,Casa,08:30,08:30,12:07,12:08,Aucune
+2026-01-16,T0414,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,20:00,20:10,22:11,22:26,Trafic
+2026-06-30,T0415,Al Boraq,Casa-Marrakech,Casa,Marrakech,11:00,11:32,14:11,14:42,Incident voyageur
+2026-04-16,T0416,Al Atlas,Casa-Marrakech,Casa,Marrakech,08:00,08:25,11:59,12:23,Exploitation
+2026-03-24,T0417,Al Atlas,Tanger-Casa,Tanger,Casa,18:00,18:13,19:36,20:04,Trafic
+2026-04-17,T0418,Al Boraq,Casa-Tanger,Casa,Tanger,07:00,07:59,10:42,11:38,Exploitation
+2026-04-14,T0419,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,14:00,14:51,16:56,18:00,Météo
+2026-01-01,T0420,Train Navette Rapide,Rabat-Fes,Rabat,Fes,17:00,18:00,20:42,21:39,Technique
+2026-05-17,T0421,Al Boraq,Fes-Casa,Fes,Casa,16:00,16:15,17:54,18:13,Trafic
+2026-03-28,T0422,Train Navette Rapide,Casa-Rabat,Casa,Rabat,08:00,09:00,11:24,12:29,Exploitation
+2026-06-24,T0423,Al Atlas,Fes-Rabat,Fes,Rabat,07:30,08:09,11:10,11:44,Exploitation
+2026-02-01,T0424,Al Atlas,Casa-Tanger,Casa,Tanger,17:00,18:14,18:00,19:15,Incident voyageur
+2026-06-26,T0425,Al Atlas,Casa-Marrakech,Casa,Marrakech,08:30,08:30,10:40,10:43,Aucune
+2026-01-22,T0426,Al Boraq,Casa-Fes,Casa,Fes,06:30,06:58,09:11,09:56,Trafic
+2026-03-01,T0427,Al Boraq,Rabat-Fes,Rabat,Fes,07:30,07:30,08:30,08:30,Aucune
+2026-06-01,T0428,Al Atlas,Rabat-Casa,Rabat,Casa,17:00,17:00,18:02,18:02,Aucune
+2026-04-19,T0429,Train Navette Rapide,Casa-Fes,Casa,Fes,18:00,18:00,19:18,19:36,Aucune
+2026-01-27,T0430,Al Atlas,Marrakech-Casa,Marrakech,Casa,14:00,14:00,16:16,16:31,Aucune
+2026-06-23,T0431,Al Atlas,Rabat-Fes,Rabat,Fes,19:00,19:05,22:24,22:29,Aucune
+2026-04-23,T0432,Al Boraq,Fes-Casa,Fes,Casa,08:00,08:19,10:45,11:05,Trafic
+2026-01-23,T0433,Al Atlas,Casa-Fes,Casa,Fes,07:30,08:29,11:00,12:07,Technique
+2026-03-22,T0434,Al Atlas,Fes-Casa,Fes,Casa,11:00,11:03,14:45,15:02,Aucune
+2026-06-03,T0435,Train Navette Rapide,Casa-Rabat,Casa,Rabat,12:00,12:13,16:19,16:48,Météo
+2026-03-19,T0436,Al Atlas,Rabat-Casa,Rabat,Casa,19:00,19:52,20:48,21:55,Technique
+2026-01-14,T0437,Al Atlas,Casa-Tanger,Casa,Tanger,15:00,15:05,16:28,16:47,Aucune
+2026-01-19,T0438,Train Navette Rapide,Fes-Rabat,Fes,Rabat,14:00,14:03,16:21,16:32,Aucune
+2026-04-04,T0439,Train Navette Rapide,Casa-Fes,Casa,Fes,18:00,18:03,22:17,22:17,Aucune
+2026-01-04,T0440,Al Boraq,Fes-Casa,Fes,Casa,06:30,07:30,07:45,08:56,Météo
+2026-03-15,T0441,Train Navette Rapide,Rabat-Casa,Rabat,Casa,16:00,16:25,18:48,19:28,Technique
+2026-05-18,T0442,Train Navette Rapide,Casa-Rabat,Casa,Rabat,08:00,08:00,10:11,10:22,Aucune
+2026-02-22,T0443,Al Atlas,Rabat-Casa,Rabat,Casa,13:00,13:29,15:40,16:24,Trafic
+2026-06-24,T0444,Train Navette Rapide,Rabat-Fes,Rabat,Fes,12:00,12:00,15:58,15:58,Aucune
+2026-03-04,T0445,Al Atlas,Tanger-Casa,Tanger,Casa,07:30,07:36,10:26,10:36,Trafic
+2026-06-20,T0446,Train Navette Rapide,Casa-Fes,Casa,Fes,07:30,07:46,08:33,08:49,Technique
+2026-05-08,T0447,Al Boraq,Rabat-Casa,Rabat,Casa,19:00,19:26,23:20,23:46,Exploitation
+2026-04-06,T0448,Al Atlas,Casa-Marrakech,Casa,Marrakech,07:30,08:22,11:47,12:59,Météo
+2026-04-20,T0449,Al Boraq,Rabat-Casa,Rabat,Casa,07:00,08:28,09:07,10:50,Technique
+2026-01-20,T0450,Al Boraq,Casa-Tanger,Casa,Tanger,19:00,19:03,21:32,21:35,Aucune
+2026-04-05,T0451,Al Atlas,Casa-Marrakech,Casa,Marrakech,07:30,07:59,10:56,11:27,Technique
+2026-05-11,T0452,Al Atlas,Fes-Rabat,Fes,Rabat,06:00,06:00,08:02,08:09,Aucune
+2026-02-08,T0453,Al Atlas,Fes-Rabat,Fes,Rabat,20:00,21:08,00:02,01:12,Technique
+2026-03-24,T0454,Al Atlas,Tanger-Casa,Tanger,Casa,13:00,13:46,15:09,16:01,Exploitation
+2026-01-31,T0455,Train Navette Rapide,Fes-Rabat,Fes,Rabat,08:30,08:42,10:27,10:46,Exploitation
+2026-01-18,T0456,Al Boraq,Casa-Marrakech,Casa,Marrakech,12:00,12:02,14:23,14:23,Aucune
+2026-04-05,T0457,Al Atlas,Casa-Marrakech,Casa,Marrakech,12:00,12:19,16:09,16:34,Trafic
+2026-06-01,T0458,Al Boraq,Fes-Casa,Fes,Casa,20:00,20:19,00:14,00:28,Exploitation
+2026-04-15,T0459,Al Atlas,Fes-Casa,Fes,Casa,20:00,20:27,22:28,22:50,Trafic
+2026-03-27,T0460,Al Atlas,Tanger-Casa,Tanger,Casa,12:00,12:00,13:26,13:34,Aucune
+2026-05-06,T0461,Al Atlas,Casa-Fes,Casa,Fes,11:00,11:00,12:23,12:34,Aucune
+2026-04-16,T0462,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,17:00,17:00,21:11,21:22,Aucune
+2026-02-04,T0463,Train Navette Rapide,Tanger-Casa,Tanger,Casa,07:00,07:18,10:31,11:05,Trafic
+2026-02-03,T0464,Al Atlas,Casa-Marrakech,Casa,Marrakech,11:00,12:00,13:20,14:37,Météo
+2026-03-25,T0465,Al Boraq,Casa-Tanger,Casa,Tanger,11:00,11:00,12:59,12:59,Aucune
+2026-05-30,T0466,Al Atlas,Casa-Fes,Casa,Fes,07:30,07:30,09:12,09:20,Aucune
+2026-01-31,T0467,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,09:00,09:00,11:55,11:55,Aucune
+2026-01-24,T0468,Al Atlas,Casa-Marrakech,Casa,Marrakech,06:30,07:00,08:25,08:54,Exploitation
+2026-01-24,T0469,Train Navette Rapide,Fes-Casa,Fes,Casa,14:00,14:26,16:41,17:11,Trafic
+2026-03-08,T0470,Al Atlas,Fes-Rabat,Fes,Rabat,15:00,15:22,17:55,18:19,Trafic
+2026-01-25,T0471,Al Boraq,Rabat-Fes,Rabat,Fes,08:00,08:00,09:31,09:31,Aucune
+2026-02-20,T0472,Al Boraq,Marrakech-Casa,Marrakech,Casa,07:00,07:34,10:29,11:00,Trafic
+2026-01-06,T0473,Al Atlas,Fes-Casa,Fes,Casa,17:00,17:00,18:32,18:32,Aucune
+2026-01-11,T0474,Al Boraq,Fes-Rabat,Fes,Rabat,08:30,08:35,11:56,12:08,Aucune
+2026-05-08,T0475,Al Atlas,Tanger-Casa,Tanger,Casa,16:00,16:00,17:44,17:47,Aucune
+2026-03-13,T0476,Al Boraq,Casa-Fes,Casa,Fes,06:30,06:42,10:07,10:34,Trafic
+2026-03-17,T0477,Al Boraq,Tanger-Casa,Tanger,Casa,20:00,20:00,23:02,23:09,Aucune
+2026-02-05,T0478,Al Boraq,Fes-Casa,Fes,Casa,19:00,19:30,21:03,21:45,Trafic
+2026-01-05,T0479,Al Boraq,Marrakech-Casa,Marrakech,Casa,18:00,18:32,21:19,22:04,Exploitation
+2026-05-09,T0480,Al Boraq,Tanger-Casa,Tanger,Casa,11:00,11:03,12:46,12:51,Aucune
+2026-01-08,T0481,Al Boraq,Fes-Rabat,Fes,Rabat,18:00,18:03,21:15,21:20,Aucune
+2026-02-10,T0482,Al Atlas,Fes-Casa,Fes,Casa,10:00,10:30,12:08,12:56,Trafic
+2026-01-15,T0483,Al Atlas,Casa-Rabat,Casa,Rabat,15:00,15:32,17:30,18:02,Météo
+2026-03-02,T0484,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,14:00,14:05,17:31,17:42,Aucune
+2026-05-26,T0485,Train Navette Rapide,Casa-Fes,Casa,Fes,09:00,09:10,12:06,12:26,Trafic
+2026-01-10,T0486,Al Atlas,Fes-Rabat,Fes,Rabat,10:00,10:03,13:34,13:47,Aucune
+2026-01-01,T0487,Al Boraq,Casa-Rabat,Casa,Rabat,09:00,09:00,10:33,10:53,Aucune
+2026-03-24,T0488,Al Atlas,Fes-Rabat,Fes,Rabat,08:00,08:33,11:30,12:22,Technique
+2026-01-29,T0489,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,07:00,08:05,09:35,10:53,Technique
+2026-01-26,T0490,Al Boraq,Casa-Marrakech,Casa,Marrakech,13:00,14:15,14:34,16:09,Incident voyageur
+2026-06-13,T0491,Al Boraq,Marrakech-Casa,Marrakech,Casa,08:30,10:08,12:31,14:29,Incident voyageur
+2026-04-02,T0492,Al Atlas,Casa-Rabat,Casa,Rabat,08:30,08:35,11:06,11:15,Aucune
+2026-02-02,T0493,Al Atlas,Fes-Rabat,Fes,Rabat,15:00,15:24,19:17,19:41,Incident voyageur
+2026-06-04,T0494,Al Boraq,Casa-Rabat,Casa,Rabat,10:00,10:34,13:43,14:27,Trafic
+2026-02-06,T0495,Al Boraq,Rabat-Fes,Rabat,Fes,10:00,10:41,12:28,13:24,Incident voyageur
+2026-01-23,T0496,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,17:00,17:00,18:02,18:19,Aucune
+2026-01-18,T0497,Al Boraq,Casa-Marrakech,Casa,Marrakech,07:30,07:32,11:34,11:45,Aucune
+2026-04-18,T0498,Al Atlas,Tanger-Casa,Tanger,Casa,18:00,18:02,20:36,20:36,Aucune
+2026-05-03,T0499,Train Navette Rapide,Fes-Casa,Fes,Casa,08:30,08:30,11:25,11:29,Aucune
+2026-01-06,T0500,Al Boraq,Casa-Marrakech,Casa,Marrakech,07:30,07:32,08:48,08:50,Aucune
+2026-01-20,T0501,Train Navette Rapide,Rabat-Fes,Rabat,Fes,13:00,14:21,16:32,18:10,Incident voyageur
+2026-01-08,T0502,Al Boraq,Casa-Fes,Casa,Fes,16:00,16:00,17:40,17:41,Aucune
+2026-02-18,T0503,Al Boraq,Rabat-Casa,Rabat,Casa,20:00,20:53,22:07,23:02,Technique
+2026-01-25,T0504,Al Atlas,Tanger-Casa,Tanger,Casa,20:00,20:00,23:05,23:05,Aucune
+2026-04-20,T0505,Al Atlas,Casa-Marrakech,Casa,Marrakech,18:00,18:00,19:51,19:51,Aucune
+2026-06-13,T0506,Al Boraq,Rabat-Fes,Rabat,Fes,18:00,18:02,19:29,19:41,Aucune
+2026-05-06,T0507,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,07:00,07:10,10:44,11:00,Trafic
+2026-04-08,T0508,Al Boraq,Casa-Fes,Casa,Fes,17:00,17:02,18:11,18:16,Aucune
+2026-02-27,T0509,Al Boraq,Casa-Rabat,Casa,Rabat,06:30,06:57,08:08,08:32,Technique
+2026-06-21,T0510,Al Boraq,Rabat-Casa,Rabat,Casa,16:00,16:22,20:13,20:31,Trafic
+2026-04-10,T0511,Train Navette Rapide,Tanger-Casa,Tanger,Casa,20:00,20:40,23:55,00:48,Exploitation
+2026-03-02,T0512,Al Boraq,Casa-Marrakech,Casa,Marrakech,07:00,07:14,09:41,10:06,Météo
+2026-05-27,T0513,Train Navette Rapide,Casa-Rabat,Casa,Rabat,08:00,09:07,09:30,10:37,Météo
+2026-02-12,T0514,Al Atlas,Fes-Casa,Fes,Casa,08:00,08:05,09:10,09:23,Aucune
+2026-02-21,T0515,Train Navette Rapide,Casa-Fes,Casa,Fes,11:00,11:18,13:21,13:36,Météo
+2026-04-10,T0516,Train Navette Rapide,Tanger-Casa,Tanger,Casa,20:00,20:43,22:23,23:15,Exploitation
+2026-01-04,T0517,Train Navette Rapide,Casa-Rabat,Casa,Rabat,19:00,19:02,23:20,23:21,Aucune
+2026-02-07,T0518,Train Navette Rapide,Casa-Rabat,Casa,Rabat,07:30,07:38,08:57,09:25,Trafic
+2026-03-15,T0519,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,16:00,16:02,18:07,18:22,Aucune
+2026-06-05,T0520,Al Boraq,Fes-Rabat,Fes,Rabat,08:30,08:33,10:40,10:57,Aucune
+2026-06-24,T0521,Train Navette Rapide,Tanger-Casa,Tanger,Casa,06:30,07:01,09:11,09:59,Exploitation
+2026-03-02,T0522,Al Atlas,Casa-Tanger,Casa,Tanger,11:00,11:00,13:35,13:39,Aucune
+2026-03-13,T0523,Al Boraq,Rabat-Fes,Rabat,Fes,10:00,10:05,11:34,11:48,Aucune
+2026-03-24,T0524,Al Boraq,Tanger-Casa,Tanger,Casa,07:00,07:02,08:48,09:08,Aucune
+2026-05-05,T0525,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,06:30,06:44,09:41,09:59,Exploitation
+2026-05-10,T0526,Al Boraq,Casa-Fes,Casa,Fes,19:00,19:00,22:25,22:26,Aucune
+2026-01-15,T0527,Al Atlas,Fes-Rabat,Fes,Rabat,17:00,17:35,18:12,18:50,Météo
+2026-04-05,T0528,Al Boraq,Rabat-Casa,Rabat,Casa,15:00,15:13,18:42,18:57,Météo
+2026-04-06,T0529,Al Boraq,Casa-Rabat,Casa,Rabat,17:00,18:20,18:45,20:18,Incident voyageur
+2026-05-22,T0530,Al Boraq,Marrakech-Casa,Marrakech,Casa,08:30,08:56,10:36,11:06,Technique
+2026-01-08,T0531,Al Boraq,Fes-Rabat,Fes,Rabat,08:30,08:53,11:56,12:21,Exploitation
+2026-06-15,T0532,Al Atlas,Fes-Casa,Fes,Casa,11:00,11:00,14:46,15:05,Aucune
+2026-06-24,T0533,Al Atlas,Casa-Tanger,Casa,Tanger,08:00,08:00,11:45,11:47,Aucune
+2026-03-06,T0534,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,11:00,11:54,13:48,14:51,Météo
+2026-03-06,T0535,Al Atlas,Casa-Tanger,Casa,Tanger,12:00,12:24,15:53,16:24,Trafic
+2026-05-30,T0536,Al Atlas,Fes-Rabat,Fes,Rabat,19:00,20:07,22:49,00:08,Incident voyageur
+2026-06-15,T0537,Train Navette Rapide,Casa-Rabat,Casa,Rabat,12:00,13:16,14:16,15:29,Technique
+2026-03-28,T0538,Al Boraq,Marrakech-Casa,Marrakech,Casa,11:00,11:53,13:06,14:00,Technique
+2026-02-08,T0539,Train Navette Rapide,Fes-Casa,Fes,Casa,06:30,06:30,10:03,10:19,Aucune
+2026-02-05,T0540,Train Navette Rapide,Fes-Rabat,Fes,Rabat,18:00,18:02,20:15,20:24,Aucune
+2026-04-10,T0541,Train Navette Rapide,Fes-Rabat,Fes,Rabat,09:00,09:43,11:27,12:26,Technique
+2026-05-17,T0542,Train Navette Rapide,Casa-Tanger,Casa,Tanger,14:00,14:00,17:09,17:25,Aucune
+2026-05-23,T0543,Al Atlas,Casa-Marrakech,Casa,Marrakech,07:30,07:30,10:30,10:48,Aucune
+2026-05-24,T0544,Al Atlas,Marrakech-Casa,Marrakech,Casa,07:00,07:05,08:56,09:05,Aucune
+2026-04-18,T0545,Al Boraq,Marrakech-Casa,Marrakech,Casa,11:00,11:00,14:29,14:39,Aucune
+2026-01-14,T0546,Train Navette Rapide,Casa-Rabat,Casa,Rabat,07:00,07:42,10:00,10:40,Exploitation
+2026-06-24,T0547,Al Boraq,Rabat-Casa,Rabat,Casa,12:00,12:00,14:45,14:45,Aucune
+2026-02-21,T0548,Al Boraq,Tanger-Casa,Tanger,Casa,17:00,17:05,18:36,18:41,Aucune
+2026-01-21,T0549,Al Boraq,Marrakech-Casa,Marrakech,Casa,08:30,08:35,10:50,11:04,Trafic
+2026-03-12,T0550,Al Atlas,Casa-Fes,Casa,Fes,08:30,09:29,11:35,12:31,Exploitation
+2026-02-03,T0551,Train Navette Rapide,Tanger-Casa,Tanger,Casa,16:00,16:02,18:43,18:52,Aucune
+2026-01-02,T0552,Al Atlas,Rabat-Casa,Rabat,Casa,09:00,09:00,13:07,13:12,Aucune
+2026-05-16,T0553,Al Atlas,Fes-Rabat,Fes,Rabat,06:00,06:43,09:40,10:40,Technique
+2026-03-30,T0554,Al Boraq,Casa-Fes,Casa,Fes,07:30,07:44,10:08,10:22,Trafic
+2026-01-17,T0555,Al Atlas,Casa-Marrakech,Casa,Marrakech,12:00,13:22,14:56,16:23,Technique
+2026-04-22,T0556,Train Navette Rapide,Casa-Fes,Casa,Fes,13:00,13:00,16:05,16:05,Aucune
+2026-04-14,T0557,Al Atlas,Fes-Casa,Fes,Casa,10:00,10:47,14:06,15:11,Incident voyageur
+2026-01-06,T0558,Train Navette Rapide,Rabat-Casa,Rabat,Casa,08:30,08:35,10:01,10:26,Aucune
+2026-01-10,T0559,Al Boraq,Casa-Marrakech,Casa,Marrakech,20:00,20:00,23:39,23:55,Aucune
+2026-01-28,T0560,Train Navette Rapide,Fes-Rabat,Fes,Rabat,06:30,06:32,10:26,10:35,Aucune
+2026-02-01,T0561,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,18:00,18:05,21:59,22:20,Aucune
+2026-06-11,T0562,Al Atlas,Casa-Marrakech,Casa,Marrakech,16:00,16:03,19:49,19:55,Aucune
+2026-06-09,T0563,Train Navette Rapide,Casa-Fes,Casa,Fes,16:00,16:24,17:26,17:48,Trafic
+2026-03-14,T0564,Al Atlas,Rabat-Fes,Rabat,Fes,18:00,18:29,19:50,20:22,Trafic
+2026-05-14,T0565,Al Atlas,Marrakech-Casa,Marrakech,Casa,16:00,16:03,18:15,18:28,Aucune
+2026-02-23,T0566,Train Navette Rapide,Casa-Tanger,Casa,Tanger,13:00,13:05,15:00,15:02,Aucune
+2026-01-29,T0567,Train Navette Rapide,Casa-Tanger,Casa,Tanger,08:00,08:14,09:23,09:55,Exploitation
+2026-01-26,T0568,Al Boraq,Fes-Casa,Fes,Casa,17:00,17:00,19:15,19:15,Aucune
+2026-02-14,T0569,Al Atlas,Casa-Marrakech,Casa,Marrakech,14:00,14:05,17:53,17:56,Aucune
+2026-01-25,T0570,Al Atlas,Fes-Rabat,Fes,Rabat,08:00,08:15,11:49,12:10,Trafic
+2026-04-23,T0571,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,07:00,07:21,09:35,09:54,Exploitation
+2026-04-13,T0572,Al Boraq,Casa-Tanger,Casa,Tanger,11:00,12:16,13:38,15:14,Technique
+2026-04-18,T0573,Train Navette Rapide,Casa-Fes,Casa,Fes,07:30,07:52,09:03,09:25,Technique
+2026-01-27,T0574,Al Boraq,Casa-Rabat,Casa,Rabat,18:00,18:38,21:25,22:17,Technique
+2026-04-08,T0575,Al Boraq,Casa-Rabat,Casa,Rabat,06:00,06:56,09:55,10:50,Exploitation
+2026-05-04,T0576,Al Boraq,Rabat-Fes,Rabat,Fes,16:00,16:00,18:52,19:07,Aucune
+2026-03-22,T0577,Al Atlas,Rabat-Casa,Rabat,Casa,10:00,10:43,13:51,14:45,Exploitation
+2026-06-26,T0578,Train Navette Rapide,Casa-Rabat,Casa,Rabat,07:30,08:16,10:20,11:16,Technique
+2026-03-30,T0579,Train Navette Rapide,Tanger-Casa,Tanger,Casa,08:00,08:16,11:22,11:33,Météo
+2026-06-14,T0580,Al Atlas,Rabat-Casa,Rabat,Casa,18:00,18:14,21:06,21:39,Exploitation
+2026-05-06,T0581,Al Boraq,Fes-Casa,Fes,Casa,13:00,13:00,15:11,15:23,Aucune
+2026-06-14,T0582,Al Boraq,Tanger-Casa,Tanger,Casa,10:00,10:30,11:20,12:03,Trafic
+2026-04-25,T0583,Al Atlas,Casa-Tanger,Casa,Tanger,17:00,17:02,19:20,19:40,Aucune
+2026-06-17,T0584,Al Atlas,Rabat-Fes,Rabat,Fes,15:00,15:03,17:45,17:45,Aucune
+2026-01-24,T0585,Train Navette Rapide,Casa-Rabat,Casa,Rabat,12:00,12:25,15:10,15:51,Trafic
+2026-04-27,T0586,Al Boraq,Marrakech-Casa,Marrakech,Casa,06:30,07:01,08:27,09:10,Exploitation
+2026-06-08,T0587,Train Navette Rapide,Casa-Tanger,Casa,Tanger,14:00,14:08,18:03,18:30,Trafic
+2026-06-18,T0588,Al Atlas,Fes-Rabat,Fes,Rabat,13:00,13:28,15:30,16:10,Exploitation
+2026-05-14,T0589,Al Boraq,Rabat-Fes,Rabat,Fes,06:30,07:01,08:12,09:00,Trafic
+2026-04-15,T0590,Al Atlas,Casa-Marrakech,Casa,Marrakech,09:00,09:02,10:48,10:51,Aucune
+2026-04-28,T0591,Al Atlas,Marrakech-Casa,Marrakech,Casa,07:30,07:35,11:43,12:04,Aucune
+2026-05-31,T0592,Al Atlas,Casa-Tanger,Casa,Tanger,17:00,17:21,20:48,21:08,Trafic
+2026-05-08,T0593,Al Atlas,Rabat-Casa,Rabat,Casa,06:30,07:41,09:51,11:13,Météo
+2026-02-15,T0594,Train Navette Rapide,Casa-Rabat,Casa,Rabat,08:30,08:46,12:37,13:00,Exploitation
+2026-06-18,T0595,Train Navette Rapide,Casa-Rabat,Casa,Rabat,13:00,13:36,16:09,16:59,Exploitation
+2026-06-27,T0596,Al Atlas,Casa-Marrakech,Casa,Marrakech,15:00,16:17,17:27,19:04,Incident voyageur
+2026-02-04,T0597,Al Atlas,Tanger-Casa,Tanger,Casa,19:00,19:45,21:16,22:06,Exploitation
+2026-05-22,T0598,Train Navette Rapide,Fes-Casa,Fes,Casa,09:00,09:14,10:53,11:23,Trafic
+2026-03-30,T0599,Train Navette Rapide,Casa-Fes,Casa,Fes,08:30,08:55,11:38,12:08,Trafic
+2026-01-30,T0600,Al Boraq,Rabat-Casa,Rabat,Casa,18:00,18:26,21:29,22:12,Trafic
+2026-04-17,T0601,Train Navette Rapide,Rabat-Casa,Rabat,Casa,12:00,12:43,14:48,15:29,Exploitation
+2026-01-07,T0602,Al Boraq,Casa-Fes,Casa,Fes,06:30,06:30,10:21,10:40,Aucune
+2026-02-11,T0603,Al Boraq,Casa-Marrakech,Casa,Marrakech,08:00,08:52,09:15,10:08,Technique
+2026-05-19,T0604,Al Atlas,Marrakech-Casa,Marrakech,Casa,17:00,17:26,18:26,19:10,Trafic
+2026-05-24,T0605,Al Atlas,Rabat-Casa,Rabat,Casa,15:00,15:30,17:00,17:50,Trafic
+2026-06-28,T0606,Al Boraq,Fes-Rabat,Fes,Rabat,15:00,15:05,17:39,17:49,Aucune
+2026-05-22,T0607,Al Atlas,Fes-Rabat,Fes,Rabat,11:00,11:29,12:51,13:29,Trafic
+2026-02-27,T0608,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,20:00,20:29,00:09,00:56,Trafic
+2026-02-19,T0609,Al Boraq,Casa-Tanger,Casa,Tanger,08:30,08:30,12:24,12:42,Aucune
+2026-05-12,T0610,Al Atlas,Tanger-Casa,Tanger,Casa,06:30,06:30,09:19,09:19,Aucune
+2026-02-11,T0611,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,06:00,06:34,08:24,08:57,Trafic
+2026-01-11,T0612,Al Atlas,Marrakech-Casa,Marrakech,Casa,06:30,07:18,10:48,11:46,Météo
+2026-05-27,T0613,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,07:00,08:22,11:20,12:44,Technique
+2026-02-17,T0614,Train Navette Rapide,Rabat-Fes,Rabat,Fes,19:00,19:03,20:40,20:50,Aucune
+2026-01-24,T0615,Al Boraq,Fes-Casa,Fes,Casa,09:00,09:00,12:49,12:53,Aucune
+2026-02-25,T0616,Train Navette Rapide,Rabat-Casa,Rabat,Casa,18:00,18:51,21:23,22:09,Exploitation
+2026-01-30,T0617,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,17:00,17:41,19:01,19:38,Météo
+2026-06-24,T0618,Al Boraq,Tanger-Casa,Tanger,Casa,07:30,07:35,10:08,10:17,Aucune
+2026-01-07,T0619,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,19:00,19:00,22:10,22:14,Aucune
+2026-06-16,T0620,Al Atlas,Marrakech-Casa,Marrakech,Casa,19:00,19:31,20:21,21:11,Météo
+2026-05-18,T0621,Train Navette Rapide,Fes-Rabat,Fes,Rabat,07:00,07:42,08:53,09:51,Technique
+2026-04-19,T0622,Al Atlas,Fes-Casa,Fes,Casa,20:00,20:57,23:59,01:15,Exploitation
+2026-04-22,T0623,Train Navette Rapide,Rabat-Fes,Rabat,Fes,08:00,08:15,09:06,09:17,Trafic
+2026-01-23,T0624,Al Atlas,Fes-Rabat,Fes,Rabat,08:30,08:53,10:34,10:59,Trafic
+2026-03-08,T0625,Al Boraq,Tanger-Casa,Tanger,Casa,17:00,17:00,20:41,20:41,Aucune
+2026-04-10,T0626,Train Navette Rapide,Rabat-Fes,Rabat,Fes,20:00,20:24,21:01,21:22,Trafic
+2026-05-30,T0627,Al Atlas,Rabat-Fes,Rabat,Fes,14:00,14:05,17:08,17:17,Aucune
+2026-06-05,T0628,Al Atlas,Casa-Marrakech,Casa,Marrakech,17:00,17:05,19:37,19:37,Aucune
+2026-05-02,T0629,Al Atlas,Rabat-Casa,Rabat,Casa,10:00,11:24,11:34,13:02,Technique
+2026-06-12,T0630,Al Atlas,Casa-Marrakech,Casa,Marrakech,14:00,14:22,15:02,15:23,Trafic
+2026-02-01,T0631,Al Atlas,Fes-Rabat,Fes,Rabat,15:00,15:07,18:17,18:28,Trafic
+2026-02-23,T0632,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,09:00,10:15,11:45,12:59,Météo
+2026-02-11,T0633,Al Atlas,Fes-Casa,Fes,Casa,11:00,11:05,12:49,13:14,Aucune
+2026-05-26,T0634,Al Atlas,Rabat-Casa,Rabat,Casa,17:00,17:14,20:45,21:15,Trafic
+2026-01-18,T0635,Al Boraq,Rabat-Fes,Rabat,Fes,09:00,09:35,13:05,13:45,Trafic
+2026-04-02,T0636,Al Atlas,Fes-Casa,Fes,Casa,07:30,08:03,09:42,10:16,Trafic
+2026-03-23,T0637,Al Boraq,Casa-Tanger,Casa,Tanger,13:00,14:29,16:37,18:05,Technique
+2026-05-25,T0638,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,13:00,13:00,15:49,15:51,Aucune
+2026-02-26,T0639,Train Navette Rapide,Tanger-Casa,Tanger,Casa,11:00,11:05,13:32,13:42,Aucune
+2026-05-03,T0640,Al Boraq,Casa-Tanger,Casa,Tanger,14:00,14:03,18:18,18:19,Aucune
+2026-02-14,T0641,Train Navette Rapide,Casa-Rabat,Casa,Rabat,07:00,07:18,09:11,09:41,Exploitation
+2026-02-20,T0642,Al Boraq,Rabat-Fes,Rabat,Fes,07:00,07:50,08:04,08:49,Exploitation
+2026-05-29,T0643,Train Navette Rapide,Tanger-Casa,Tanger,Casa,09:00,09:22,10:09,10:43,Trafic
+2026-05-01,T0644,Train Navette Rapide,Casa-Fes,Casa,Fes,14:00,14:03,16:40,17:01,Aucune
+2026-03-16,T0645,Al Atlas,Casa-Tanger,Casa,Tanger,19:00,19:00,22:10,22:21,Aucune
+2026-01-03,T0646,Train Navette Rapide,Fes-Casa,Fes,Casa,08:30,08:49,12:43,13:02,Trafic
+2026-02-15,T0647,Train Navette Rapide,Casa-Rabat,Casa,Rabat,08:00,09:00,12:08,13:04,Technique
+2026-02-26,T0648,Al Boraq,Fes-Casa,Fes,Casa,07:00,07:00,09:07,09:23,Aucune
+2026-02-22,T0649,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,15:00,15:15,18:00,18:11,Météo
+2026-06-16,T0650,Al Boraq,Rabat-Fes,Rabat,Fes,19:00,19:57,22:42,23:42,Exploitation
+2026-05-29,T0651,Train Navette Rapide,Casa-Rabat,Casa,Rabat,08:30,09:31,11:06,12:20,Technique
+2026-06-17,T0652,Al Atlas,Rabat-Casa,Rabat,Casa,11:00,11:48,13:36,14:35,Incident voyageur
+2026-04-14,T0653,Al Boraq,Marrakech-Casa,Marrakech,Casa,18:00,18:10,21:03,21:24,Exploitation
+2026-02-05,T0654,Al Boraq,Casa-Fes,Casa,Fes,10:00,10:13,11:19,11:33,Trafic
+2026-02-08,T0655,Al Atlas,Casa-Fes,Casa,Fes,14:00,14:30,17:34,18:20,Technique
+2026-02-28,T0656,Al Boraq,Marrakech-Casa,Marrakech,Casa,07:30,08:46,10:33,11:50,Technique
+2026-06-01,T0657,Al Atlas,Tanger-Casa,Tanger,Casa,06:00,06:03,08:02,08:18,Aucune
+2026-02-11,T0658,Al Atlas,Rabat-Casa,Rabat,Casa,06:30,06:30,09:56,09:59,Aucune
+2026-02-16,T0659,Train Navette Rapide,Tanger-Casa,Tanger,Casa,06:00,06:51,10:04,10:52,Technique
+2026-02-25,T0660,Al Boraq,Casa-Rabat,Casa,Rabat,18:00,18:02,21:03,21:19,Aucune
+2026-02-06,T0661,Train Navette Rapide,Casa-Fes,Casa,Fes,19:00,19:05,21:07,21:17,Aucune
+2026-04-27,T0662,Train Navette Rapide,Casa-Rabat,Casa,Rabat,07:00,07:00,08:58,08:58,Aucune
+2026-01-05,T0663,Al Atlas,Rabat-Casa,Rabat,Casa,19:00,19:00,22:55,23:09,Aucune
+2026-01-25,T0664,Al Atlas,Casa-Tanger,Casa,Tanger,06:30,06:59,10:50,11:17,Trafic
+2026-01-24,T0665,Al Boraq,Casa-Fes,Casa,Fes,20:00,21:05,21:00,22:16,Météo
+2026-04-18,T0666,Al Boraq,Fes-Rabat,Fes,Rabat,19:00,19:02,21:49,22:11,Aucune
+2026-04-08,T0667,Al Boraq,Casa-Rabat,Casa,Rabat,07:30,07:32,10:18,10:39,Aucune
+2026-03-01,T0668,Al Atlas,Casa-Marrakech,Casa,Marrakech,20:00,20:00,22:44,23:01,Aucune
+2026-01-02,T0669,Train Navette Rapide,Rabat-Casa,Rabat,Casa,07:30,07:35,10:43,10:49,Aucune
+2026-06-26,T0670,Al Boraq,Tanger-Casa,Tanger,Casa,14:00,14:05,15:27,15:45,Aucune
+2026-03-06,T0671,Al Boraq,Rabat-Casa,Rabat,Casa,16:00,16:00,19:24,19:40,Aucune
+2026-04-12,T0672,Al Atlas,Tanger-Casa,Tanger,Casa,20:00,20:10,00:20,00:36,Trafic
+2026-05-24,T0673,Train Navette Rapide,Casa-Tanger,Casa,Tanger,11:00,11:29,13:18,14:04,Trafic
+2026-04-12,T0674,Train Navette Rapide,Casa-Fes,Casa,Fes,07:30,07:35,11:41,11:46,Aucune
+2026-01-26,T0675,Al Atlas,Rabat-Casa,Rabat,Casa,15:00,15:49,17:26,18:32,Exploitation
+2026-06-25,T0676,Train Navette Rapide,Fes-Rabat,Fes,Rabat,08:30,08:50,11:09,11:49,Incident voyageur
+2026-01-24,T0677,Al Atlas,Casa-Tanger,Casa,Tanger,16:00,16:00,17:22,17:28,Aucune
+2026-01-21,T0678,Train Navette Rapide,Fes-Rabat,Fes,Rabat,15:00,15:21,17:42,18:07,Trafic
+2026-06-02,T0679,Al Atlas,Casa-Fes,Casa,Fes,18:00,18:05,20:52,21:17,Aucune
+2026-05-13,T0680,Al Boraq,Fes-Casa,Fes,Casa,06:30,06:51,10:50,11:28,Trafic
+2026-03-01,T0681,Train Navette Rapide,Casa-Fes,Casa,Fes,06:30,06:30,09:02,09:02,Aucune
+2026-01-23,T0682,Al Boraq,Tanger-Casa,Tanger,Casa,14:00,14:03,17:51,17:55,Aucune
+2026-05-13,T0683,Al Atlas,Rabat-Fes,Rabat,Fes,07:00,07:03,10:20,10:36,Aucune
+2026-03-31,T0684,Al Boraq,Casa-Marrakech,Casa,Marrakech,10:00,11:18,13:35,15:00,Incident voyageur
+2026-05-28,T0685,Al Atlas,Casa-Marrakech,Casa,Marrakech,08:30,08:52,11:14,11:33,Trafic
+2026-05-09,T0686,Al Boraq,Marrakech-Casa,Marrakech,Casa,07:30,08:12,10:41,11:40,Météo
+2026-04-24,T0687,Al Boraq,Casa-Rabat,Casa,Rabat,18:00,18:00,22:17,22:36,Aucune
+2026-04-28,T0688,Train Navette Rapide,Casa-Tanger,Casa,Tanger,06:00,06:00,09:03,09:10,Aucune
+2026-06-12,T0689,Al Atlas,Fes-Casa,Fes,Casa,13:00,13:11,15:45,16:13,Météo
+2026-03-09,T0690,Al Atlas,Casa-Marrakech,Casa,Marrakech,07:00,07:58,09:42,10:37,Technique
+2026-05-22,T0691,Al Atlas,Casa-Tanger,Casa,Tanger,13:00,13:03,15:30,15:36,Aucune
+2026-02-16,T0692,Train Navette Rapide,Fes-Casa,Fes,Casa,18:00,18:05,22:08,22:15,Aucune
+2026-03-09,T0693,Al Atlas,Fes-Casa,Fes,Casa,09:00,09:32,11:03,11:34,Exploitation
+2026-01-28,T0694,Al Atlas,Rabat-Fes,Rabat,Fes,18:00,18:03,21:37,21:37,Aucune
+2026-05-04,T0695,Al Boraq,Casa-Rabat,Casa,Rabat,13:00,13:45,16:06,17:01,Météo
+2026-02-16,T0696,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,15:00,15:31,16:56,17:23,Technique
+2026-05-15,T0697,Al Boraq,Casa-Tanger,Casa,Tanger,20:00,20:17,21:08,21:41,Trafic
+2026-02-14,T0698,Al Boraq,Rabat-Fes,Rabat,Fes,19:00,19:00,21:57,21:57,Aucune
+2026-06-22,T0699,Al Atlas,Tanger-Casa,Tanger,Casa,07:30,07:30,09:53,09:53,Aucune
+2026-05-21,T0700,Al Boraq,Fes-Casa,Fes,Casa,11:00,11:53,14:00,14:59,Météo
+2026-02-17,T0701,Al Boraq,Tanger-Casa,Tanger,Casa,09:00,10:02,11:47,12:55,Technique
+2026-04-13,T0702,Al Boraq,Casa-Tanger,Casa,Tanger,08:30,08:33,11:56,12:15,Aucune
+2026-02-28,T0703,Al Atlas,Casa-Marrakech,Casa,Marrakech,10:00,10:02,13:22,13:25,Aucune
+2026-02-07,T0704,Train Navette Rapide,Casa-Fes,Casa,Fes,18:00,18:02,19:02,19:03,Aucune
+2026-06-11,T0705,Train Navette Rapide,Rabat-Casa,Rabat,Casa,13:00,13:03,16:04,16:20,Aucune
+2026-01-13,T0706,Al Boraq,Rabat-Fes,Rabat,Fes,08:30,08:30,09:45,09:55,Aucune
+2026-06-11,T0707,Al Atlas,Casa-Tanger,Casa,Tanger,13:00,13:03,15:06,15:21,Aucune
+2026-03-07,T0708,Al Boraq,Fes-Rabat,Fes,Rabat,16:00,16:05,17:31,17:50,Aucune
+2026-02-20,T0709,Train Navette Rapide,Casa-Rabat,Casa,Rabat,20:00,20:56,21:44,22:46,Incident voyageur
+2026-03-25,T0710,Train Navette Rapide,Rabat-Casa,Rabat,Casa,18:00,18:25,22:18,22:50,Technique
+2026-06-07,T0711,Al Boraq,Casa-Tanger,Casa,Tanger,08:00,08:34,09:42,10:21,Trafic
+2026-04-18,T0712,Train Navette Rapide,Casa-Rabat,Casa,Rabat,15:00,15:00,16:18,16:20,Aucune
+2026-03-22,T0713,Al Boraq,Casa-Marrakech,Casa,Marrakech,11:00,11:13,14:34,14:56,Trafic
+2026-04-03,T0714,Train Navette Rapide,Casa-Rabat,Casa,Rabat,19:00,19:00,21:55,21:55,Aucune
+2026-02-02,T0715,Train Navette Rapide,Fes-Casa,Fes,Casa,11:00,11:25,15:10,15:36,Technique
+2026-02-12,T0716,Al Boraq,Rabat-Fes,Rabat,Fes,07:30,08:40,08:46,10:08,Météo
+2026-01-14,T0717,Al Atlas,Tanger-Casa,Tanger,Casa,19:00,19:33,23:15,23:51,Incident voyageur
+2026-06-08,T0718,Al Atlas,Rabat-Fes,Rabat,Fes,15:00,15:05,17:19,17:28,Aucune
+2026-04-24,T0719,Train Navette Rapide,Casa-Fes,Casa,Fes,08:00,08:11,11:14,11:21,Exploitation
+2026-06-19,T0720,Al Boraq,Marrakech-Casa,Marrakech,Casa,18:00,19:29,20:59,22:31,Incident voyageur
+2026-05-21,T0721,Al Boraq,Casa-Fes,Casa,Fes,20:00,20:19,21:45,22:19,Trafic
+2026-06-12,T0722,Train Navette Rapide,Tanger-Casa,Tanger,Casa,19:00,19:14,22:43,23:03,Trafic
+2026-05-04,T0723,Train Navette Rapide,Fes-Casa,Fes,Casa,07:00,07:02,09:53,09:58,Aucune
+2026-02-09,T0724,Al Boraq,Fes-Rabat,Fes,Rabat,06:00,06:18,09:13,09:37,Exploitation
+2026-03-15,T0725,Al Boraq,Rabat-Casa,Rabat,Casa,06:00,07:11,09:56,11:11,Météo
+2026-01-03,T0726,Al Boraq,Casa-Marrakech,Casa,Marrakech,10:00,10:11,11:01,11:20,Trafic
+2026-05-24,T0727,Al Boraq,Tanger-Casa,Tanger,Casa,10:00,11:04,11:41,12:52,Technique
+2026-02-26,T0728,Al Boraq,Rabat-Fes,Rabat,Fes,16:00,16:03,19:40,20:03,Aucune
+2026-06-27,T0729,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,12:00,12:49,15:46,16:43,Technique
+2026-02-18,T0730,Al Atlas,Casa-Fes,Casa,Fes,08:00,08:02,10:14,10:30,Aucune
+2026-04-26,T0731,Al Boraq,Casa-Rabat,Casa,Rabat,18:00,18:00,19:48,19:48,Aucune
+2026-05-17,T0732,Al Atlas,Casa-Fes,Casa,Fes,07:30,07:35,09:42,09:56,Aucune
+2026-01-03,T0733,Al Atlas,Rabat-Fes,Rabat,Fes,08:00,08:15,09:03,09:26,Trafic
+2026-03-21,T0734,Al Boraq,Marrakech-Casa,Marrakech,Casa,17:00,17:31,20:58,21:26,Exploitation
+2026-02-07,T0735,Al Atlas,Casa-Marrakech,Casa,Marrakech,15:00,15:10,16:18,16:29,Trafic
+2026-03-06,T0736,Al Boraq,Fes-Rabat,Fes,Rabat,07:30,08:34,11:46,13:09,Technique
+2026-04-24,T0737,Al Atlas,Fes-Rabat,Fes,Rabat,09:00,09:27,11:57,12:35,Technique
+2026-06-20,T0738,Al Atlas,Casa-Tanger,Casa,Tanger,15:00,16:01,18:54,19:55,Incident voyageur
+2026-06-11,T0739,Train Navette Rapide,Fes-Rabat,Fes,Rabat,20:00,20:02,23:13,23:30,Aucune
+2026-03-18,T0740,Al Atlas,Marrakech-Casa,Marrakech,Casa,06:30,06:30,10:20,10:22,Aucune
+2026-06-12,T0741,Al Boraq,Marrakech-Casa,Marrakech,Casa,06:00,06:47,07:42,08:27,Exploitation
+2026-04-12,T0742,Al Atlas,Fes-Rabat,Fes,Rabat,06:30,07:10,09:58,10:55,Exploitation
+2026-06-02,T0743,Al Atlas,Marrakech-Casa,Marrakech,Casa,07:00,07:00,09:03,09:19,Aucune
+2026-06-08,T0744,Al Boraq,Fes-Rabat,Fes,Rabat,06:30,06:57,09:01,09:40,Trafic
+2026-01-28,T0745,Al Atlas,Casa-Tanger,Casa,Tanger,10:00,11:04,12:21,13:45,Incident voyageur
+2026-04-23,T0746,Train Navette Rapide,Fes-Casa,Fes,Casa,06:00,06:05,09:56,10:00,Aucune
+2026-03-06,T0747,Al Atlas,Casa-Tanger,Casa,Tanger,17:00,17:05,20:23,20:38,Aucune
+2026-02-18,T0748,Train Navette Rapide,Casa-Fes,Casa,Fes,20:00,20:02,22:29,22:34,Aucune
+2026-06-03,T0749,Train Navette Rapide,Casa-Fes,Casa,Fes,07:00,07:00,10:15,10:18,Aucune
+2026-05-19,T0750,Al Boraq,Casa-Tanger,Casa,Tanger,06:00,06:17,10:18,10:53,Trafic
+2026-02-17,T0751,Al Atlas,Casa-Rabat,Casa,Rabat,14:00,14:15,18:18,18:51,Trafic
+2026-01-17,T0752,Train Navette Rapide,Rabat-Casa,Rabat,Casa,15:00,15:20,16:48,17:27,Trafic
+2026-05-22,T0753,Al Atlas,Casa-Rabat,Casa,Rabat,12:00,12:00,14:22,14:22,Aucune
+2026-01-25,T0754,Train Navette Rapide,Rabat-Fes,Rabat,Fes,06:30,06:30,08:03,08:04,Aucune
+2026-01-28,T0755,Al Boraq,Fes-Casa,Fes,Casa,07:30,08:01,08:38,09:16,Trafic
+2026-06-18,T0756,Al Boraq,Rabat-Casa,Rabat,Casa,11:00,11:03,12:12,12:32,Aucune
+2026-01-19,T0757,Al Atlas,Fes-Casa,Fes,Casa,18:00,18:25,19:20,19:41,Trafic
+2026-04-03,T0758,Train Navette Rapide,Tanger-Casa,Tanger,Casa,14:00,14:03,18:01,18:07,Aucune
+2026-05-16,T0759,Al Atlas,Rabat-Fes,Rabat,Fes,12:00,12:22,13:19,13:39,Météo
+2026-03-01,T0760,Train Navette Rapide,Tanger-Casa,Tanger,Casa,09:00,09:12,10:49,11:14,Trafic
+2026-06-10,T0761,Al Atlas,Rabat-Casa,Rabat,Casa,20:00,21:28,22:46,00:20,Technique
+2026-06-22,T0762,Al Boraq,Tanger-Casa,Tanger,Casa,07:30,08:15,09:12,10:04,Exploitation
+2026-05-10,T0763,Al Boraq,Casa-Fes,Casa,Fes,20:00,20:00,23:33,23:38,Aucune
+2026-05-21,T0764,Al Boraq,Marrakech-Casa,Marrakech,Casa,16:00,16:31,20:15,21:04,Trafic
+2026-03-24,T0765,Train Navette Rapide,Fes-Casa,Fes,Casa,20:00,20:03,21:54,22:15,Aucune
+2026-03-07,T0766,Al Boraq,Casa-Tanger,Casa,Tanger,17:00,17:00,19:41,19:45,Aucune
+2026-06-02,T0767,Al Atlas,Rabat-Casa,Rabat,Casa,08:00,08:00,10:17,10:18,Aucune
+2026-03-22,T0768,Al Atlas,Casa-Marrakech,Casa,Marrakech,20:00,20:34,23:10,23:57,Trafic
+2026-02-09,T0769,Al Atlas,Fes-Rabat,Fes,Rabat,17:00,17:00,19:31,19:37,Aucune
+2026-05-30,T0770,Al Atlas,Fes-Casa,Fes,Casa,11:00,11:02,13:16,13:31,Aucune
+2026-02-25,T0771,Train Navette Rapide,Rabat-Fes,Rabat,Fes,13:00,13:05,16:03,16:25,Aucune
+2026-05-28,T0772,Al Atlas,Casa-Rabat,Casa,Rabat,12:00,13:28,13:09,14:44,Technique
+2026-01-21,T0773,Al Atlas,Marrakech-Casa,Marrakech,Casa,14:00,14:00,16:51,17:10,Aucune
+2026-02-28,T0774,Train Navette Rapide,Casa-Rabat,Casa,Rabat,06:00,06:34,09:42,10:12,Exploitation
+2026-03-20,T0775,Train Navette Rapide,Fes-Rabat,Fes,Rabat,13:00,13:15,16:18,16:44,Trafic
+2026-06-28,T0776,Al Atlas,Casa-Fes,Casa,Fes,06:30,07:35,10:22,11:36,Technique
+2026-06-02,T0777,Train Navette Rapide,Rabat-Casa,Rabat,Casa,07:00,07:02,08:56,08:57,Aucune
+2026-02-03,T0778,Al Boraq,Rabat-Fes,Rabat,Fes,18:00,19:25,21:26,22:58,Technique
+2026-03-09,T0779,Al Atlas,Tanger-Casa,Tanger,Casa,19:00,19:18,21:51,22:28,Exploitation
+2026-02-04,T0780,Al Boraq,Rabat-Casa,Rabat,Casa,09:00,09:03,12:04,12:08,Aucune
+2026-05-24,T0781,Train Navette Rapide,Rabat-Casa,Rabat,Casa,10:00,10:02,12:02,12:09,Aucune
+2026-06-25,T0782,Train Navette Rapide,Rabat-Fes,Rabat,Fes,07:30,07:30,11:21,11:27,Aucune
+2026-02-18,T0783,Al Boraq,Marrakech-Casa,Marrakech,Casa,06:00,06:00,10:17,10:31,Aucune
+2026-04-24,T0784,Train Navette Rapide,Casa-Fes,Casa,Fes,17:00,17:39,18:11,18:51,Météo
+2026-06-25,T0785,Al Boraq,Casa-Fes,Casa,Fes,07:00,07:46,08:28,09:28,Technique
+2026-02-07,T0786,Al Boraq,Fes-Rabat,Fes,Rabat,13:00,13:29,16:57,17:35,Exploitation
+2026-05-01,T0787,Al Atlas,Marrakech-Casa,Marrakech,Casa,09:00,09:11,13:09,13:32,Trafic
+2026-05-14,T0788,Al Boraq,Rabat-Casa,Rabat,Casa,18:00,18:33,21:39,22:29,Technique
+2026-06-28,T0789,Train Navette Rapide,Fes-Rabat,Fes,Rabat,15:00,15:15,18:29,18:47,Météo
+2026-02-13,T0790,Al Atlas,Casa-Marrakech,Casa,Marrakech,09:00,09:06,12:58,13:13,Trafic
+2026-06-17,T0791,Al Atlas,Rabat-Fes,Rabat,Fes,15:00,15:05,18:49,19:00,Aucune
+2026-01-28,T0792,Al Atlas,Casa-Marrakech,Casa,Marrakech,15:00,16:25,16:59,18:41,Incident voyageur
+2026-01-26,T0793,Al Boraq,Casa-Tanger,Casa,Tanger,20:00,20:03,21:22,21:34,Aucune
+2026-05-24,T0794,Train Navette Rapide,Fes-Rabat,Fes,Rabat,06:30,07:19,08:33,09:27,Météo
+2026-05-06,T0795,Al Boraq,Casa-Fes,Casa,Fes,06:00,07:00,08:28,09:43,Technique
+2026-03-19,T0796,Al Atlas,Rabat-Casa,Rabat,Casa,11:00,11:33,12:15,12:55,Trafic
+2026-01-08,T0797,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,10:00,10:02,11:38,11:56,Aucune
+2026-02-05,T0798,Al Atlas,Tanger-Casa,Tanger,Casa,19:00,19:25,22:53,23:34,Trafic
+2026-02-28,T0799,Al Boraq,Fes-Casa,Fes,Casa,08:00,09:37,10:49,12:31,Incident voyageur
+2026-04-25,T0800,Train Navette Rapide,Casa-Fes,Casa,Fes,09:00,09:03,12:47,13:06,Aucune
+2026-02-21,T0801,Al Atlas,Casa-Marrakech,Casa,Marrakech,19:00,19:00,20:34,20:49,Aucune
+2026-05-25,T0802,Al Atlas,Marrakech-Casa,Marrakech,Casa,07:00,07:28,10:22,10:48,Trafic
+2026-02-17,T0803,Al Boraq,Casa-Fes,Casa,Fes,06:00,06:02,10:15,10:25,Aucune
+2026-03-19,T0804,Al Boraq,Casa-Marrakech,Casa,Marrakech,08:00,08:00,12:19,12:19,Aucune
+2026-01-07,T0805,Train Navette Rapide,Casa-Rabat,Casa,Rabat,11:00,11:12,14:35,15:01,Trafic
+2026-03-01,T0806,Al Atlas,Fes-Rabat,Fes,Rabat,14:00,15:16,15:20,16:35,Technique
+2026-05-09,T0807,Train Navette Rapide,Casa-Tanger,Casa,Tanger,14:00,14:41,15:47,16:38,Exploitation
+2026-02-05,T0808,Al Atlas,Fes-Casa,Fes,Casa,10:00,10:00,11:08,11:11,Aucune
+2026-04-16,T0809,Al Atlas,Fes-Casa,Fes,Casa,09:00,09:02,10:16,10:32,Aucune
+2026-05-06,T0810,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,17:00,17:00,19:03,19:17,Aucune
+2026-04-08,T0811,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,15:00,15:14,18:36,19:01,Météo
+2026-01-28,T0812,Al Boraq,Casa-Tanger,Casa,Tanger,06:30,06:47,08:32,09:07,Trafic
+2026-01-11,T0813,Train Navette Rapide,Tanger-Casa,Tanger,Casa,19:00,19:06,23:15,23:22,Trafic
+2026-03-16,T0814,Al Boraq,Tanger-Casa,Tanger,Casa,12:00,12:39,16:18,16:57,Exploitation
+2026-04-19,T0815,Al Boraq,Casa-Rabat,Casa,Rabat,06:30,06:39,10:26,10:44,Trafic
+2026-06-15,T0816,Al Boraq,Rabat-Fes,Rabat,Fes,19:00,19:03,20:28,20:48,Aucune
+2026-05-20,T0817,Al Atlas,Tanger-Casa,Tanger,Casa,16:00,16:10,18:22,18:41,Trafic
+2026-06-01,T0818,Train Navette Rapide,Fes-Casa,Fes,Casa,17:00,17:05,18:23,18:43,Aucune
+2026-02-11,T0819,Train Navette Rapide,Rabat-Fes,Rabat,Fes,07:00,08:01,08:29,09:27,Technique
+2026-05-15,T0820,Train Navette Rapide,Tanger-Casa,Tanger,Casa,19:00,19:58,22:36,23:46,Météo
+2026-04-08,T0821,Al Atlas,Casa-Fes,Casa,Fes,13:00,13:19,16:24,16:43,Exploitation
+2026-02-07,T0822,Al Atlas,Fes-Rabat,Fes,Rabat,16:00,16:02,18:18,18:24,Aucune
+2026-06-10,T0823,Al Atlas,Rabat-Fes,Rabat,Fes,08:00,08:00,09:51,09:51,Aucune
+2026-04-28,T0824,Al Boraq,Casa-Tanger,Casa,Tanger,20:00,20:20,21:01,21:23,Trafic
+2026-02-25,T0825,Train Navette Rapide,Casa-Tanger,Casa,Tanger,17:00,17:03,19:44,20:01,Aucune
+2026-01-02,T0826,Al Atlas,Rabat-Casa,Rabat,Casa,11:00,11:31,14:38,15:10,Trafic
+2026-01-13,T0827,Al Atlas,Casa-Fes,Casa,Fes,06:30,06:30,10:17,10:17,Aucune
+2026-06-20,T0828,Train Navette Rapide,Casa-Rabat,Casa,Rabat,12:00,12:16,14:24,14:38,Météo
+2026-04-17,T0829,Al Atlas,Casa-Fes,Casa,Fes,12:00,13:28,15:36,17:24,Technique
+2026-05-24,T0830,Al Atlas,Casa-Tanger,Casa,Tanger,14:00,14:00,15:09,15:14,Aucune
+2026-04-05,T0831,Al Boraq,Rabat-Fes,Rabat,Fes,16:00,16:02,19:20,19:21,Aucune
+2026-02-01,T0832,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,13:00,13:00,16:14,16:31,Aucune
+2026-02-23,T0833,Train Navette Rapide,Fes-Rabat,Fes,Rabat,07:30,08:52,10:56,12:15,Technique
+2026-05-04,T0834,Train Navette Rapide,Casa-Rabat,Casa,Rabat,12:00,12:15,14:49,15:07,Trafic
+2026-05-15,T0835,Train Navette Rapide,Casa-Rabat,Casa,Rabat,14:00,14:20,15:33,16:04,Trafic
+2026-06-11,T0836,Al Boraq,Casa-Tanger,Casa,Tanger,08:30,08:30,12:06,12:07,Aucune
+2026-01-01,T0837,Al Atlas,Fes-Rabat,Fes,Rabat,17:00,17:57,20:40,21:38,Exploitation
+2026-06-07,T0838,Al Boraq,Tanger-Casa,Tanger,Casa,06:30,06:35,08:55,09:01,Aucune
+2026-01-03,T0839,Train Navette Rapide,Fes-Casa,Fes,Casa,12:00,12:29,14:05,14:38,Exploitation
+2026-05-10,T0840,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,06:00,06:58,07:29,08:34,Technique
+2026-05-26,T0841,Train Navette Rapide,Fes-Rabat,Fes,Rabat,08:30,08:30,10:19,10:35,Aucune
+2026-05-03,T0842,Al Boraq,Fes-Rabat,Fes,Rabat,08:00,08:02,11:03,11:17,Aucune
+2026-03-27,T0843,Al Boraq,Tanger-Casa,Tanger,Casa,06:30,06:35,09:43,10:04,Aucune
+2026-03-22,T0844,Train Navette Rapide,Rabat-Casa,Rabat,Casa,06:00,06:15,07:53,08:28,Trafic
+2026-04-01,T0845,Al Atlas,Casa-Fes,Casa,Fes,11:00,11:02,12:07,12:24,Aucune
+2026-05-17,T0846,Al Atlas,Casa-Rabat,Casa,Rabat,15:00,15:32,16:47,17:39,Trafic
+2026-03-20,T0847,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,06:30,06:32,08:39,08:43,Aucune
+2026-04-06,T0848,Al Boraq,Casa-Marrakech,Casa,Marrakech,09:00,09:00,12:14,12:20,Aucune
+2026-01-10,T0849,Al Atlas,Rabat-Fes,Rabat,Fes,17:00,17:02,20:09,20:22,Aucune
+2026-02-09,T0850,Al Atlas,Marrakech-Casa,Marrakech,Casa,18:00,18:29,22:07,22:55,Exploitation
+2026-03-25,T0851,Al Atlas,Rabat-Fes,Rabat,Fes,19:00,19:46,22:53,23:57,Incident voyageur
+2026-01-10,T0852,Al Boraq,Tanger-Casa,Tanger,Casa,19:00,19:00,20:29,20:45,Aucune
+2026-06-02,T0853,Al Atlas,Marrakech-Casa,Marrakech,Casa,17:00,17:05,18:11,18:34,Aucune
+2026-03-21,T0854,Al Atlas,Casa-Rabat,Casa,Rabat,12:00,12:51,15:43,16:35,Météo
+2026-02-19,T0855,Al Boraq,Casa-Marrakech,Casa,Marrakech,20:00,20:52,22:21,23:11,Exploitation
+2026-03-11,T0856,Al Atlas,Casa-Fes,Casa,Fes,11:00,11:03,12:29,12:44,Aucune
+2026-05-12,T0857,Al Atlas,Fes-Casa,Fes,Casa,20:00,20:13,22:29,22:41,Trafic
+2026-06-30,T0858,Al Boraq,Casa-Rabat,Casa,Rabat,10:00,10:03,11:43,11:51,Aucune
+2026-05-19,T0859,Al Boraq,Fes-Rabat,Fes,Rabat,08:00,08:26,09:07,09:29,Trafic
+2026-01-28,T0860,Al Boraq,Fes-Rabat,Fes,Rabat,07:00,07:05,09:49,10:08,Aucune
+2026-06-01,T0861,Train Navette Rapide,Casa-Tanger,Casa,Tanger,14:00,14:00,16:19,16:36,Aucune
+2026-06-21,T0862,Train Navette Rapide,Rabat-Fes,Rabat,Fes,17:00,17:05,20:25,20:39,Aucune
+2026-01-25,T0863,Al Boraq,Casa-Marrakech,Casa,Marrakech,17:00,17:00,20:00,20:00,Aucune
+2026-06-07,T0864,Al Boraq,Marrakech-Casa,Marrakech,Casa,15:00,15:57,16:46,18:03,Technique
+2026-03-25,T0865,Al Boraq,Casa-Tanger,Casa,Tanger,06:00,06:16,07:16,07:42,Trafic
+2026-04-29,T0866,Al Atlas,Casa-Marrakech,Casa,Marrakech,14:00,14:21,17:34,17:53,Trafic
+2026-04-14,T0867,Train Navette Rapide,Rabat-Fes,Rabat,Fes,13:00,13:30,16:22,16:56,Trafic
+2026-05-17,T0868,Al Boraq,Tanger-Casa,Tanger,Casa,16:00,16:22,18:01,18:23,Trafic
+2026-05-04,T0869,Al Boraq,Rabat-Fes,Rabat,Fes,13:00,13:47,14:53,15:48,Exploitation
+2026-04-22,T0870,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,20:00,20:05,23:57,00:18,Aucune
+2026-01-20,T0871,Train Navette Rapide,Casa-Rabat,Casa,Rabat,18:00,18:19,19:29,19:53,Trafic
+2026-05-23,T0872,Al Atlas,Casa-Tanger,Casa,Tanger,08:30,08:48,10:48,11:20,Météo
+2026-01-28,T0873,Train Navette Rapide,Casa-Rabat,Casa,Rabat,15:00,15:26,17:23,17:45,Trafic
+2026-01-24,T0874,Al Atlas,Casa-Fes,Casa,Fes,06:00,06:00,10:13,10:22,Aucune
+2026-05-17,T0875,Al Boraq,Tanger-Casa,Tanger,Casa,17:00,17:00,18:50,18:54,Aucune
+2026-05-26,T0876,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,16:00,17:04,20:03,21:04,Incident voyageur
+2026-05-30,T0877,Al Atlas,Casa-Rabat,Casa,Rabat,19:00,19:28,21:43,22:07,Exploitation
+2026-04-05,T0878,Train Navette Rapide,Fes-Rabat,Fes,Rabat,06:00,06:16,10:00,10:14,Trafic
+2026-03-14,T0879,Al Atlas,Fes-Casa,Fes,Casa,16:00,16:25,19:59,20:29,Trafic
+2026-04-08,T0880,Al Boraq,Tanger-Casa,Tanger,Casa,16:00,16:00,19:19,19:29,Aucune
+2026-02-05,T0881,Al Atlas,Rabat-Casa,Rabat,Casa,15:00,15:19,17:32,17:55,Exploitation
+2026-06-21,T0882,Al Atlas,Casa-Fes,Casa,Fes,06:00,06:09,07:18,07:45,Trafic
+2026-05-05,T0883,Train Navette Rapide,Tanger-Casa,Tanger,Casa,08:00,08:02,09:21,09:32,Aucune
+2026-06-28,T0884,Train Navette Rapide,Tanger-Casa,Tanger,Casa,08:30,08:52,11:26,11:57,Trafic
+2026-04-09,T0885,Al Boraq,Fes-Casa,Fes,Casa,08:30,08:53,11:18,11:51,Trafic
+2026-03-02,T0886,Train Navette Rapide,Rabat-Casa,Rabat,Casa,11:00,11:56,13:45,14:37,Météo
+2026-01-10,T0887,Train Navette Rapide,Casa-Tanger,Casa,Tanger,14:00,14:35,15:28,16:20,Trafic
+2026-01-21,T0888,Al Atlas,Rabat-Casa,Rabat,Casa,11:00,11:21,13:59,14:34,Trafic
+2026-01-23,T0889,Al Atlas,Casa-Tanger,Casa,Tanger,07:00,07:30,10:55,11:38,Trafic
+2026-03-21,T0890,Train Navette Rapide,Fes-Rabat,Fes,Rabat,13:00,13:40,16:16,17:05,Exploitation
+2026-05-12,T0891,Al Boraq,Casa-Rabat,Casa,Rabat,13:00,13:00,15:47,15:51,Aucune
+2026-02-12,T0892,Al Atlas,Casa-Rabat,Casa,Rabat,12:00,12:26,16:06,16:28,Exploitation
+2026-06-11,T0893,Al Boraq,Casa-Rabat,Casa,Rabat,08:30,08:30,11:56,12:16,Aucune
+2026-06-09,T0894,Al Atlas,Casa-Marrakech,Casa,Marrakech,18:00,18:00,19:21,19:41,Aucune
+2026-03-13,T0895,Al Boraq,Casa-Fes,Casa,Fes,11:00,11:10,13:10,13:38,Exploitation
+2026-01-29,T0896,Train Navette Rapide,Casa-Fes,Casa,Fes,08:00,08:00,11:48,11:51,Aucune
+2026-06-29,T0897,Al Atlas,Casa-Tanger,Casa,Tanger,08:30,09:01,11:45,12:13,Exploitation
+2026-02-07,T0898,Train Navette Rapide,Casa-Fes,Casa,Fes,18:00,19:09,22:12,23:23,Incident voyageur
+2026-06-19,T0899,Al Boraq,Casa-Fes,Casa,Fes,09:00,09:59,12:27,13:22,Technique
+2026-06-14,T0900,Al Boraq,Rabat-Fes,Rabat,Fes,06:30,06:50,08:12,08:36,Trafic
+2026-05-02,T0901,Train Navette Rapide,Rabat-Casa,Rabat,Casa,10:00,11:04,12:37,13:51,Technique
+2026-03-09,T0902,Al Atlas,Rabat-Casa,Rabat,Casa,16:00,16:02,17:03,17:12,Aucune
+2026-06-23,T0903,Al Boraq,Rabat-Casa,Rabat,Casa,06:30,07:25,07:54,08:57,Météo
+2026-06-06,T0904,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,13:00,13:00,15:09,15:12,Aucune
+2026-06-17,T0905,Train Navette Rapide,Tanger-Casa,Tanger,Casa,17:00,17:45,21:17,22:20,Technique
+2026-06-22,T0906,Train Navette Rapide,Fes-Casa,Fes,Casa,19:00,19:38,21:26,22:09,Technique
+2026-05-21,T0907,Al Atlas,Fes-Rabat,Fes,Rabat,07:00,07:03,08:03,08:04,Aucune
+2026-06-25,T0908,Al Boraq,Marrakech-Casa,Marrakech,Casa,10:00,10:00,14:05,14:05,Aucune
+2026-01-07,T0909,Train Navette Rapide,Rabat-Fes,Rabat,Fes,06:30,07:12,10:02,10:58,Technique
+2026-06-13,T0910,Al Atlas,Rabat-Fes,Rabat,Fes,07:00,07:05,10:34,10:58,Aucune
+2026-06-15,T0911,Train Navette Rapide,Casa-Fes,Casa,Fes,07:30,07:30,11:28,11:37,Aucune
+2026-06-19,T0912,Al Atlas,Casa-Tanger,Casa,Tanger,11:00,11:05,15:16,15:40,Aucune
+2026-03-24,T0913,Al Boraq,Casa-Fes,Casa,Fes,07:00,07:34,09:10,09:51,Exploitation
+2026-03-27,T0914,Al Atlas,Casa-Marrakech,Casa,Marrakech,11:00,11:02,12:45,12:48,Aucune
+2026-06-06,T0915,Al Boraq,Casa-Fes,Casa,Fes,18:00,18:02,19:27,19:30,Aucune
+2026-06-07,T0916,Train Navette Rapide,Rabat-Fes,Rabat,Fes,17:00,17:00,21:03,21:03,Aucune
+2026-01-19,T0917,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,17:00,17:29,18:04,18:48,Météo
+2026-06-13,T0918,Al Atlas,Fes-Rabat,Fes,Rabat,15:00,15:00,17:08,17:15,Aucune
+2026-05-28,T0919,Al Atlas,Rabat-Casa,Rabat,Casa,18:00,18:05,21:02,21:26,Aucune
+2026-01-18,T0920,Train Navette Rapide,Fes-Casa,Fes,Casa,06:00,07:11,08:38,09:47,Météo
+2026-05-26,T0921,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,13:00,13:00,16:54,17:09,Aucune
+2026-06-15,T0922,Al Atlas,Marrakech-Casa,Marrakech,Casa,20:00,20:02,22:27,22:48,Aucune
+2026-03-16,T0923,Train Navette Rapide,Fes-Casa,Fes,Casa,08:30,08:32,11:51,12:09,Aucune
+2026-02-18,T0924,Al Boraq,Tanger-Casa,Tanger,Casa,07:30,08:47,11:11,12:25,Technique
+2026-06-11,T0925,Al Boraq,Fes-Casa,Fes,Casa,08:00,08:05,09:09,09:27,Aucune
+2026-03-03,T0926,Al Boraq,Tanger-Casa,Tanger,Casa,07:00,07:20,10:18,10:50,Trafic
+2026-04-26,T0927,Al Atlas,Fes-Rabat,Fes,Rabat,13:00,13:05,14:14,14:15,Aucune
+2026-04-14,T0928,Al Atlas,Fes-Casa,Fes,Casa,19:00,19:29,21:57,22:44,Météo
+2026-05-29,T0929,Al Atlas,Rabat-Fes,Rabat,Fes,06:30,06:35,10:38,10:38,Aucune
+2026-05-01,T0930,Train Navette Rapide,Fes-Rabat,Fes,Rabat,10:00,10:05,13:59,14:04,Trafic
+2026-06-11,T0931,Al Atlas,Casa-Marrakech,Casa,Marrakech,07:30,08:01,10:26,11:10,Trafic
+2026-01-17,T0932,Al Atlas,Rabat-Fes,Rabat,Fes,18:00,18:24,21:32,21:53,Exploitation
+2026-02-21,T0933,Al Boraq,Marrakech-Casa,Marrakech,Casa,15:00,15:05,17:23,17:41,Aucune
+2026-05-20,T0934,Al Atlas,Marrakech-Casa,Marrakech,Casa,09:00,09:00,13:15,13:20,Aucune
+2026-01-17,T0935,Al Atlas,Casa-Marrakech,Casa,Marrakech,08:00,08:05,12:13,12:24,Aucune
+2026-05-22,T0936,Al Atlas,Casa-Tanger,Casa,Tanger,10:00,10:00,13:28,13:48,Aucune
+2026-06-11,T0937,Train Navette Rapide,Tanger-Casa,Tanger,Casa,08:30,08:45,09:34,09:44,Exploitation
+2026-01-02,T0938,Al Atlas,Rabat-Fes,Rabat,Fes,12:00,13:15,14:46,16:18,Technique
+2026-02-02,T0939,Al Atlas,Casa-Fes,Casa,Fes,11:00,11:12,14:13,14:25,Trafic
+2026-06-06,T0940,Train Navette Rapide,Fes-Rabat,Fes,Rabat,08:30,09:05,12:33,13:05,Trafic
+2026-06-10,T0941,Al Boraq,Marrakech-Casa,Marrakech,Casa,16:00,16:11,17:01,17:10,Trafic
+2026-05-16,T0942,Al Atlas,Casa-Rabat,Casa,Rabat,14:00,15:24,18:14,19:40,Incident voyageur
+2026-04-29,T0943,Train Navette Rapide,Fes-Casa,Fes,Casa,11:00,11:00,12:13,12:29,Aucune
+2026-05-02,T0944,Al Boraq,Casa-Fes,Casa,Fes,08:30,08:46,12:21,12:52,Météo
+2026-04-04,T0945,Al Boraq,Fes-Casa,Fes,Casa,16:00,16:02,18:04,18:04,Aucune
+2026-01-27,T0946,Train Navette Rapide,Fes-Rabat,Fes,Rabat,20:00,20:00,21:45,21:55,Aucune
+2026-05-12,T0947,Al Atlas,Rabat-Fes,Rabat,Fes,10:00,10:03,14:04,14:12,Aucune
+2026-04-18,T0948,Al Atlas,Marrakech-Casa,Marrakech,Casa,10:00,10:00,14:19,14:19,Aucune
+2026-03-02,T0949,Train Navette Rapide,Tanger-Casa,Tanger,Casa,09:00,09:19,11:36,12:05,Météo
+2026-05-30,T0950,Al Boraq,Fes-Rabat,Fes,Rabat,16:00,16:03,17:37,17:49,Aucune
+2026-02-15,T0951,Al Boraq,Marrakech-Casa,Marrakech,Casa,08:00,09:00,10:57,12:00,Technique
+2026-02-21,T0952,Al Boraq,Casa-Fes,Casa,Fes,06:30,06:43,10:27,10:39,Trafic
+2026-01-29,T0953,Al Boraq,Casa-Tanger,Casa,Tanger,16:00,16:43,17:43,18:30,Technique
+2026-06-04,T0954,Al Atlas,Casa-Rabat,Casa,Rabat,08:30,09:19,11:57,12:43,Incident voyageur
+2026-04-16,T0955,Train Navette Rapide,Casa-Tanger,Casa,Tanger,09:00,09:19,12:31,12:53,Trafic
+2026-01-04,T0956,Train Navette Rapide,Tanger-Casa,Tanger,Casa,10:00,10:03,12:03,12:08,Aucune
+2026-06-01,T0957,Al Atlas,Casa-Rabat,Casa,Rabat,06:00,06:25,08:46,09:21,Incident voyageur
+2026-05-10,T0958,Al Atlas,Tanger-Casa,Tanger,Casa,19:00,19:30,21:40,22:27,Trafic
+2026-01-26,T0959,Al Boraq,Casa-Tanger,Casa,Tanger,10:00,10:05,11:21,11:43,Trafic
+2026-04-15,T0960,Al Atlas,Casa-Fes,Casa,Fes,14:00,14:00,16:15,16:15,Aucune
+2026-05-03,T0961,Train Navette Rapide,Casa-Marrakech,Casa,Marrakech,08:30,08:53,12:30,13:11,Trafic
+2026-05-30,T0962,Al Atlas,Casa-Tanger,Casa,Tanger,17:00,17:05,21:17,21:29,Aucune
+2026-02-17,T0963,Al Boraq,Casa-Tanger,Casa,Tanger,06:00,06:05,09:40,09:50,Aucune
+2026-05-16,T0964,Al Atlas,Casa-Marrakech,Casa,Marrakech,16:00,16:03,20:12,20:27,Aucune
+2026-05-28,T0965,Al Atlas,Rabat-Fes,Rabat,Fes,13:00,14:15,17:08,18:39,Météo
+2026-04-04,T0966,Al Atlas,Rabat-Fes,Rabat,Fes,15:00,15:06,17:33,17:45,Trafic
+2026-04-04,T0967,Al Atlas,Rabat-Casa,Rabat,Casa,07:00,07:41,10:23,11:03,Technique
+2026-03-27,T0968,Al Atlas,Rabat-Casa,Rabat,Casa,07:30,08:05,11:16,12:10,Trafic
+2026-05-29,T0969,Train Navette Rapide,Fes-Casa,Fes,Casa,10:00,10:00,12:22,12:33,Aucune
+2026-06-24,T0970,Al Boraq,Casa-Marrakech,Casa,Marrakech,06:30,06:32,07:46,07:58,Aucune
+2026-05-09,T0971,Train Navette Rapide,Rabat-Fes,Rabat,Fes,18:00,18:31,22:01,22:44,Trafic
+2026-03-16,T0972,Al Boraq,Casa-Rabat,Casa,Rabat,14:00,14:18,17:52,18:11,Météo
+2026-04-28,T0973,Al Atlas,Rabat-Fes,Rabat,Fes,15:00,15:00,16:45,16:45,Aucune
+2026-02-12,T0974,Al Boraq,Rabat-Fes,Rabat,Fes,08:00,08:00,11:07,11:18,Aucune
+2026-06-10,T0975,Al Atlas,Casa-Marrakech,Casa,Marrakech,16:00,16:09,19:54,20:13,Trafic
+2026-03-30,T0976,Al Boraq,Casa-Tanger,Casa,Tanger,06:00,06:00,08:14,08:34,Aucune
+2026-03-01,T0977,Train Navette Rapide,Marrakech-Casa,Marrakech,Casa,16:00,16:05,19:28,19:53,Aucune
+2026-03-25,T0978,Al Boraq,Casa-Rabat,Casa,Rabat,19:00,19:00,22:20,22:33,Aucune
+2026-02-03,T0979,Al Boraq,Casa-Fes,Casa,Fes,11:00,11:14,12:58,13:31,Trafic
+2026-01-13,T0980,Al Atlas,Marrakech-Casa,Marrakech,Casa,12:00,12:30,14:56,15:43,Météo
+2026-05-18,T0981,Al Boraq,Casa-Fes,Casa,Fes,08:30,09:04,12:31,13:05,Technique
+2026-03-02,T0982,Al Atlas,Fes-Rabat,Fes,Rabat,13:00,13:00,16:27,16:33,Aucune
+2026-02-17,T0983,Al Atlas,Rabat-Casa,Rabat,Casa,06:30,06:30,10:20,10:20,Aucune
+2026-04-06,T0984,Al Boraq,Rabat-Casa,Rabat,Casa,08:30,08:30,11:46,11:53,Aucune
+2026-05-08,T0985,Al Atlas,Casa-Tanger,Casa,Tanger,13:00,13:05,14:39,14:56,Aucune
+2026-05-10,T0986,Al Boraq,Casa-Marrakech,Casa,Marrakech,18:00,19:33,20:14,22:03,Incident voyageur
+2026-02-07,T0987,Train Navette Rapide,Casa-Tanger,Casa,Tanger,13:00,13:02,16:56,16:56,Aucune
+2026-02-05,T0988,Train Navette Rapide,Rabat-Casa,Rabat,Casa,07:30,07:33,09:48,09:53,Aucune
+2026-04-25,T0989,Al Boraq,Rabat-Fes,Rabat,Fes,13:00,13:11,14:14,14:38,Trafic
+2026-05-15,T0990,Al Atlas,Casa-Marrakech,Casa,Marrakech,09:00,09:02,10:05,10:23,Aucune
+2026-06-21,T0991,Al Atlas,Rabat-Casa,Rabat,Casa,15:00,15:24,16:49,17:27,Trafic
+2026-05-11,T0992,Al Atlas,Marrakech-Casa,Marrakech,Casa,15:00,16:09,16:37,17:52,Technique
+2026-04-09,T0993,Al Boraq,Fes-Rabat,Fes,Rabat,12:00,12:02,14:28,14:42,Aucune
+2026-01-23,T0994,Al Atlas,Casa-Tanger,Casa,Tanger,16:00,16:05,18:53,19:06,Aucune
+2026-04-17,T0995,Al Atlas,Casa-Rabat,Casa,Rabat,07:00,07:02,08:36,08:49,Aucune
+2026-03-27,T0996,Al Atlas,Casa-Rabat,Casa,Rabat,15:00,15:05,16:22,16:30,Aucune
+2026-04-17,T0997,Al Atlas,Rabat-Casa,Rabat,Casa,17:00,17:34,21:01,21:34,Trafic
+2026-02-21,T0998,Al Atlas,Tanger-Casa,Tanger,Casa,12:00,12:31,15:21,15:56,Trafic
+2026-05-30,T0999,Al Boraq,Casa-Tanger,Casa,Tanger,20:00,20:05,00:09,00:34,Trafic
+2026-01-01,T1000,Al Atlas,Casa-Marrakech,Casa,Marrakech,12:00,12:40,15:43,16:21,Exploitation

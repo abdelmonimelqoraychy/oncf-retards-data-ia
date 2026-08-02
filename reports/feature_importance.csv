@@ -1,0 +1,33 @@
+﻿variable,importance
+num__retard_depart_minutes,0.5062691712560059
+num__heure_depart,0.153992756860047
+cat__type_train_Al Boraq,0.02665057491719224
+cat__type_train_Train Navette Rapide,0.02425164327543326
+cat__type_train_Al Atlas,0.023152528381726607
+cat__jour_semaine_Samedi,0.02035523849588997
+cat__jour_semaine_Vendredi,0.019605897479438795
+cat__jour_semaine_Lundi,0.01924125901796869
+cat__jour_semaine_Jeudi,0.01886744657503505
+cat__jour_semaine_Mercredi,0.01837951457825695
+cat__jour_semaine_Mardi,0.016906230345687535
+cat__jour_semaine_Dimanche,0.016266219438620562
+cat__ligne_Fes-Casa,0.009886055896238735
+cat__gare_arrivee_Rabat,0.00927681150284755
+cat__ligne_Casa-Rabat,0.008811407442486154
+cat__gare_depart_Fes,0.008695384434393572
+cat__gare_arrivee_Casa,0.007793165830065425
+cat__gare_arrivee_Fes,0.007150214945985483
+cat__gare_depart_Tanger,0.007143136961957929
+cat__ligne_Casa-Fes,0.007141382286209275
+cat__gare_depart_Rabat,0.006783931864311938
+cat__gare_depart_Marrakech,0.006763576051271566
+cat__gare_depart_Casa,0.0067499448600982954
+cat__ligne_Marrakech-Casa,0.006717661822447734
+cat__ligne_Fes-Rabat,0.005930026477445481
+cat__ligne_Tanger-Casa,0.005633441016685907
+cat__ligne_Casa-Marrakech,0.005613595568007879
+cat__ligne_Rabat-Casa,0.005549212263078875
+cat__gare_arrivee_Tanger,0.005474227893332085
+cat__ligne_Casa-Tanger,0.005165710273889147
+cat__gare_arrivee_Marrakech,0.005150052616986269
+cat__ligne_Rabat-Fes,0.004632579370958172

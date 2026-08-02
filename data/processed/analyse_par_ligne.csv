@@ -1,0 +1,11 @@
+﻿ligne,nombre_trains,retard_moyen_arrivee,retard_max_arrivee,nombre_retards,taux_retard
+Rabat-Casa,91,33.19,103,69,75.82
+Marrakech-Casa,107,31.46,118,89,83.18
+Casa-Rabat,100,30.03,95,80,80.0
+Casa-Marrakech,106,27.96,109,78,73.58
+Rabat-Fes,101,27.08,103,72,71.29
+Fes-Casa,87,26.62,103,71,81.61
+Tanger-Casa,113,25.96,97,74,65.49
+Fes-Rabat,91,24.98,98,67,73.63
+Casa-Fes,95,24.83,108,66,69.47
+Casa-Tanger,109,24.53,117,80,73.39
