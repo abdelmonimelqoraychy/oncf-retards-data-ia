@@ -116,13 +116,17 @@ The selected model is **Random Forest**, because it provides the best balance be
 
 The project includes a Streamlit dashboard for exploring railway delay indicators and interacting with the prediction model.
 
-Recommended screenshots to add later:
+### Dashboard Overview
 
-```text
-docs/screenshots/dashboard-overview.png
-docs/screenshots/kpi-page.png
-docs/screenshots/prediction-page.png
-```
+![Dashboard Overview](docs/screenshots/dashboard-overview.png)
+
+### KPI Analysis
+
+![KPI Analysis](docs/screenshots/kpi-page.png)
+
+### Delay Prediction
+
+![Delay Prediction](docs/screenshots/prediction-page.png)
 
 
 ## Project Structure
